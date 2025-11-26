@@ -1,0 +1,1103 @@
+image_name,composition,treatment,grain_size
+img_001.png,Cu Zn,"Hot rolled, annealed, cold rolled, annealed",120.0
+img_002.png,Cu Zn,"Hot rolled, annealed, cold rolled, annealed",120.0
+img_003.png,Cu Zn,"Hot rolled, annealed, cold rolled, annealed",120.0
+img_004.png,Cu Zn,"Hot rolled, annealed, cold rolled, annealed(50% Reduction)",
+img_005.png,Cu Zn,"Hot rolled, annealed, cold rolled, annealed(50% Reduction)",
+img_006.png,Cu Zn,"Hot rolled, annealed, cold rolled, annealed(50% Reduction)",
+img_007.png,Ce Ni,Dendritic solidification,
+img_008.png,Ce Ni,Dendritic solidification,
+img_009.png,Ce Ni,Dendritic solidification,
+img_010.png,Al Mg,Casting(ingot),
+img_011.png,Al Cu Mg Zn,Casting(ingot),
+img_012.png,Al,"Rolled, as-polished",
+img_013.png,,"Etched using HCl, ethanol, and H2O2",20.0
+img_014.png,,Nickel plated; etched with Vilella's reagent,50.0
+img_015.png,, LM fractograph (direct). ,20.0
+img_016.png,, Scanning electron microscopy (SEM) fractograph (direct) ,20.0
+img_017.png,,LM replica,20.0
+img_018.png,,SEM replica,20.0
+img_019.png,,Transmission electron microscopy replica.,2.0
+img_020.png,Al Cr Fe,Light microscopy (bright-field illumination),100.0
+img_021.png,Al Cr Fe,Light microscopy (dark-field illumination),100.0
+img_022.png,Al Cr Fe,Scanning electron microscopy (secondary-electron imaging),100.0
+img_023.png,Fe,Scanning electron microscopy (fractograph),20.0
+img_024.png,C Fe,Embrittled by liquid copper at 1100Â°C (2012Â°F),100.0
+img_025.png,C Fe,Embrittled by liquid copper at 1100Â°C (2012Â°F),50.0
+img_026.png,C Cr Fe Mn S Si,Tempered martensitic; etched using Vilellaâs reagent,100.0
+img_027.png,C Cr Fe Mn S Si,Tempered martensitic; etched using Vilellaâs reagent,100.0
+img_028.png,C Cr Fe Mn S Si,Tempered martensitic; etched using Vilellaâs reagent,100.0
+img_029.png,C Cr Fe Mn S Si,Tempered martensitic; etched using Vilellaâs reagent,100.0
+img_030.png,C Fe Mn,Etched using 4% picral,100.0
+img_031.png,C Fe Mn,Etched using 4% picral,100.0
+img_032.png,C Fe Mn,Etched using 4% picral,100.0
+img_033.png,C Fe Mn,Etched using 4% picral,100.0
+img_034.png,Mo,"Rolled sheet, annealed at 900Â°C for 1 h",50.0
+img_035.png,Mo,"Rolled sheet, annealed at 1350Â°C for 15 min",50.0
+img_036.png,C Fe,"Finish rolled at 940Â°C, coiled at 725Â°C",100.0
+img_037.png,C Fe,"Finish rolled at 845Â°C, coiled at 695Â°C",100.0
+img_038.png,C Fe Mn,Water quenched from 760Â°C,2.0
+img_039.png,C Fe Mn,Directional heat flow during welding; etched with 5% Nital,
+img_040.png,C Fe Mn,Deformation and subsequent annealing; etched with 5% Nital,100.0
+img_041.png,C Fe Mn,Heavily drawn steel wire; etched with 5% Nital,10.0
+img_042.png,Zn,Dark-field illumination,10.0
+img_043.png,C Fe Mn,Hot rolled; etched with 5% Nital,50.0
+img_044.png,C Fe Mn,Scanning electron microscopy,10.0
+img_045.png,,Slowly cooled; optical microscopy,100.0
+img_046.png,Al,Slowly cooled; optical microscopy,50.0
+img_047.png,Al,Slowly cooled; optical microscopy,50.0
+img_048.png,Mg,Slowly cooled; optical microscopy,60.0
+img_049.png,Sn,Slowly cooled,40.0
+img_050.png,Sn,Rapidly cooled,40.0
+img_051.png,Sn,As-cast,20.0
+img_052.png,Al,"As-cast, phosphorus-modified",100.0
+img_053.png,C Mn,"Continuous casting, as-cast microstructure with coring",
+img_054.png,,As-cast; coring during solidification,
+img_055.png,C,Slow cooled from austenite at 2.5 Â°C/min,20.0
+img_056.png,Fe,Chemically etched polished specimen,20.0
+img_057.png,Fe,Chemically etched polished specimen,10.0
+img_058.png,,"Austenitized at 860 Â°C, isothermally transformed at 705 Â°C for 17 h",20.0
+img_059.png,,"Austenitized at 900 Â°C, isothermally transformed at 705 Â°C for 16 h",20.0
+img_060.png,,"Austenitized at 925 Â°C, isothermally transformed at 675 Â°C",20.0
+img_061.png,,"Austenitized at 840 Â°C (ASTM grain size No. 7), isothermally transformed at 695 Â°C",10.0
+img_062.png,,"Austenitized at 950 Â°C (ASTM grain size No. 5), isothermally transformed at 695 Â°C",10.0
+img_063.png,,"Austenitized at 1090 Â°C (ASTM grain size No. 3), isothermally transformed at 695 Â°C",10.0
+img_064.png,Ni,Solution-annealed and aged,2.0
+img_065.png,,2% nital etch,100.0
+img_066.png,,2% nital etch,10.0
+img_067.png,,2% nital etch,10.0
+img_068.png,,Tempered after quenching; etched surface for optical microscopy,20.0
+img_069.png,,Tempered after quenching; examined using SEM,2.0
+img_070.png,,5% nital etch,10.0
+img_071.png,,Oil quenched; examined using light microscopy,20.0
+img_072.png,,Oil quenched; examined using SEM,2.0
+img_073.png,,"Austenitized at 843 Â°C for 2 h, oil quenched 15 s, air cooled 5 min, and oil quenched to room temperature; 4% picral etch",20.0
+img_074.png,C Cr Mn Mo Ni Si,Isothermal transformation at 495 Â°C; picral etch; original magnification 750Ã,20.0
+img_075.png,C Cr Mn Mo Ni Si,Isothermal transformation at 410 Â°C; picral etch; original magnification 750Ã,20.0
+img_076.png,C Mn Si,Austenitized at 860 Â°C; isothermal transformation at 500 Â°C for 0.5 s; picral etch;original magnification 250× ,40.0
+img_077.png,C Mn Si,Austenitized at 860 °C; isothermal transformation at 500 °C for 0.5 s; picral etch; original magnification 2000×,5.0
+img_078.png,C Mn Si,Austenitized at 860 Â°C; isothermal transformation at 450 Â°C for 0.5 s; picral etch; original magnification 250Ã,40.0
+img_079.png,C Mn Si,Austenitized at 860 Â°C; isothermal transformation at 450 Â°C for 0.5 s; picral etch; original magnification 2000Ã,5.0
+img_080.png,C Mn Si,Austenitized at 860 Â°C; isothermal transformation at 300 Â°C for 200 s; picral etch; original magnification 250Ã,40.0
+img_081.png,C Mn Si,Austenitized at 860 Â°C; isothermal transformation at 300 Â°C for 200 s; picral etch; original magnification 2000Ã,5.0
+img_082.png,,"Austenitized at 843 Â°C; quenched to 343 Â°C and held 12 min for partial isothermal transformation; water quenched; nital etch; original magnification 11,000Ã",1.0
+img_083.png,C,Cold-rolled ferrite-pearlite microstructure followed by heating to induce spheroidization; original magnification 1000Ã,10.0
+img_084.png,C Ni,Fast cooling from 920 Â°C to 200 Â°C in 30 s; original magnification not specified,26.0
+img_085.png,C Ni,Intermediate cooling from 920 Â°C to 250 Â°C in 200 s;,26.0
+img_086.png,C Ni,"Slow cooling from 920 Â°C to 250 Â°C in 10,000 s;",26.0
+img_087.png,,5% nital etch; original magnification 500Ã,20.0
+img_088.png,,5% nital etch; quenched to martensite; original magnification 1000Ã,10.0
+img_089.png,Al,Preferentially etched surface; etchant not reported; electron micrograph; original magnification not specified,1.0
+img_090.png,Al,"Direct chill cast; transmission electron micrograph; original magnification 10,000Ã",1.0
+img_091.png,,Secondary electron micrograph;,20.0
+img_092.png,,Secondary electron micrograph;,20.0
+img_093.png,Cd Sn,"Directionally solidified sample; section parallel to growth direction; quenched planar solid/liquid interface; G = 320 K/cm, V = 0.85 Î¼m/s, ÎT = 5.7 K; etched with 5 mL HNO3 and 95 mL lactic acid; original magnification 80Ã",100.0
+img_094.png,Pb Sn,Liquid decanted to reveal solid/liquid interface; oblique illumination; unpolished and unetched; original magnification 150Ã,
+img_095.png,Pb Sn,Liquid decanted to reveal solid/liquid interface; bright-field illumination; unpolished and unetched; original magnification 150Ã,
+img_096.png,Pb Sn,Liquid decanted to reveal solid/liquid interface; bright-field illumination; unpolished and unetched; original magnification 150Ã,50.0
+img_097.png,Co Cu,Casting; secondary electron micrograph; etchant not reported; original magnification 150Ã,50.0
+img_098.png,Co Cu,Casting; as-polished; secondary electron micrograph; original magnification 400Ã,20.0
+img_099.png,,X-ray emission imaging using Co-KÎ± wavelength; bright-field image; original magnification 400Ã,20.0
+img_100.png,Cu Ni,Etched with 70 mL HNO3 and 30 mL H2O; original magnification 10Ã,1750.0
+img_101.png,Ni,Etched using 70 mL HNO3 and 30 mL H2O,175.0
+img_102.png,Pb,Etched using 60 mL acetic acid and 40 mL hydrogen peroxide (30%),500.0
+img_103.png,Pb,Etched using 60 mL acetic acid and 40 mL hydrogen peroxide (30%),500.0
+img_104.png,Ag,Electron beam melted and resolidified at 0.025 m/s (1 in./s),0.5
+img_105.png,Ag,Electron beam melted and resolidified at 0.3 m/s (12 in./s)),0.5
+img_106.png,Ag,Electron beam melted and resolidified at approximately 0.6 m/s (24 in./s),0.1
+img_107.png,Al Mn,"Melt-spun and electropolished at -30 Â°C in 950 mL methanol, 50 mL HClO4, and 15 mL HNO3",1.0
+img_108.png,Al Mn,"Melt-spun and electropolished at -30 Â°C in 950 mL methanol, 50 mL HClO4, and 15 mL HNO3",1.0
+img_109.png,Ag Cu,"Melt-spun and etched with 20 mL NH4OH, 10 mL 3% H2O2, and 10 mL H2O (used fresh)",5.0
+img_110.png,Cd Sn,Directionally solidified from bottom to top and rapidly cooled to preserve the solid/liquid interface. Etched with aqueous FeCl3 solution.,100.0
+img_111.png,,Directionally solidified rod at 12.7 mm/h; longitudinal section showing growth direction.,20.0
+img_112.png,,Directionally solidified rod at 25.4 mm/h; longitudinal section showing growth direction.,20.0
+img_113.png,,Etchant not reported,50.0
+img_114.png,Al,As-polished,40.0
+img_115.png,Al,As-polished,
+img_116.png,Cd Pb,Etchant not reported,20.0
+img_117.png,Cd Pb,Etchant not reported,20.0
+img_118.png,Cu,Solidified at V = 778 Âµm/s and G = 12 K/mm,140.0
+img_119.png,Cu,"Upward directional solidification in longitudinal section, V = 4.4 Âµm/s",1000.0
+img_120.png,Cu,"Upward directional solidification, V = 2.2 Âµm/s",500.0
+img_121.png,Sn,Etched with 10% FeCl3 + 2% HCl in H2O,200.0
+img_122.png,Sn,Etched with 10% FeCl3 + 2% HCl in H2O,200.0
+img_123.png,Ge,Etched using HNO3-acetic-HF-bromine mixture,5.0
+img_124.png,Ge,Etched using HNO3-acetic-HF-bromine after annealing post-deformation,40.0
+img_125.png,Ge,Etched using HNO3-acetic-HF-bromine after low-temperature deformation,40.0
+img_126.png,Ge,Thin-foil electron micrograph,0.2
+img_127.png,Au,Thin-foil transmission electron micrograph,0.5
+img_128.png,Au,Thin-foil transmission electron micrograph,0.5
+img_129.png,Fe,Etched using 5% nital,40.0
+img_130.png,,Unetched,1000.0
+img_131.png,,-,300.0
+img_132.png,,Thermally etched 2 h at 925Â°C (1700Â°F),100.0
+img_133.png,,Directionally solidified; peritectic reaction stage 1,
+img_134.png,,Directionally solidified; peritectic reaction stage 2,
+img_135.png,,Directionally solidified; peritectic reaction stage 3,
+img_136.png,,-,40.0
+img_137.png,,Etched with picral,20.0
+img_138.png,,As-polished,20.0
+img_139.png,,"Etched in 80% hydrogen peroxide, 15% distilled water, remainder hydrofluoric acid",50.0
+img_140.png,,"Etched in 80% hydrogen peroxide, 15% distilled water, remainder hydrofluoric acid",50.0
+img_141.png,,"Etched in 80% hydrogen peroxide, 15% distilled water, remainder hydrofluoric acid",50.0
+img_142.png,,"Etched in 80% hydrogen peroxide, 15% distilled water, remainder hydrofluoric acid",50.0
+img_143.png,,-,10.0
+img_144.png,,-,50.0
+img_145.png,,Etched with nital,100.0
+img_146.png,,Etched with nital,100.0
+img_147.png,Cr,-,50.0
+img_148.png,Cr,-,50.0
+img_149.png,C Cr,-,200.0
+img_150.png,C Cr,-,200.0
+img_151.png,C Cr,-,200.0
+img_152.png,Al,Etched with 0.5% HF,100.0
+img_153.png,Al,Etched with 0.5% HF,100.0
+img_154.png,Al,Etched with 0.5% HF,100.0
+img_155.png,Al,"Etched with 1 mL HBF4, 1 mL HF, 24 mL C2H5OH, 74 mL H2O electrolyte",250.0
+img_156.png,Al,"Etched with 1 mL HBF4, 1 mL HF, 24 mL C2H5OH, 74 mL H2O electrolyte",25.0
+img_157.png,Al,"Etched with 1 mL HBF4, 1 mL HF, 24 mL C2H5OH, 74 mL H2O electrolyte",250.0
+img_158.png,Al,"Etched with 1 mL HBF4, 1 mL HF, 24 mL C2H5OH, 74 mL H2O electrolyte",25.0
+img_159.png,Al,Etched with 0.5% HF,25.0
+img_160.png,Al,Etched with 0.5% HF,250.0
+img_161.png,Al,Cooled at 0.45 Â°C/s (0.8 Â°F/s),200.0
+img_162.png,Al,Cooled at 0.45 Â°C/s (0.8 Â°F/s),200.0
+img_165.png,,"Cast by Properzi (wheel-and-belt) method, etched using Tucker's reagent",10000.0
+img_166.png,,"Cast by Hazelett (two-belt) method, etched using Tucker's reagent",
+img_167.png,,"Direct-chill semicontinuous cast without grain refiner, etched using Tucker's reagent",
+img_168.png,,"Direct-chill semicontinuous cast with grain refiner, etched using Tucker's reagent",
+img_169.png,,"Direct-chill cast without grain refiner, etched using Tucker's reagent",
+img_170.png,,"Etched with Barker's reagent, observed under polarized light",200.0
+img_171.png,,"Outlining of grains using modified Poulton reagent (60% HCl, 30% HNO3, 5% HF, 5% H2O)",500.0
+img_172.png,,Etched using Keller's reagent,50.0
+img_173.png,,Deep etched and observed under scanning electron microscopy,10.0
+img_174.png,,Etched using Keller's reagent,20.0
+img_175.png,,Deep etched and observed under scanning electron microscopy,10.0
+img_176.png,Al,"Strontium-modified eutectic structure, source Ref 13",50.0
+img_177.png,,"Strontium-modified eutectic structure, source Ref 14",300.0
+img_178.png,,Sodium-modified eutectic structure,100.0
+img_179.png,,"Etched using modified Poulton reagent (60% HCl, 30% HNO3, 5% HF, 5% H2O)",400.0
+img_180.png,,Observed under scanning electron microscopy on fractured tensile test surface,100.0
+img_181.png,Al,-,200.0
+img_182.png,Al,-,200.0
+img_183.png,,Etched using Keller's reagent,200.0
+img_184.png,,Etched using Keller's reagent,200.0
+img_185.png,Al Si,Etched using 0.5% HF,200.0
+img_186.png,Al Si,Observed under scanning electron microscopy,100.0
+img_187.png,Al Si,Etched using 0.5% HF,200.0
+img_188.png,Al Si,Observed under scanning electron microscopy,100.0
+img_189.png,Al Si,Observed under scanning electron microscopy,20.0
+img_190.png,Al,Etched using dilute Keller's reagent,40.0
+img_191.png,Al Mn,Unpolished,
+img_192.png,Al Cu Mg,As-polished,400.0
+img_193.png,Al,Observed under scanning electron microscopy,100.0
+img_194.png,Al,Observed under scanning electron microscopy,50.0
+img_195.png,Al,Etched using Tucker's reagent,
+img_196.png,Al,As-polished,100.0
+img_197.png,,Observed under scanning electron microscopy,20.0
+img_198.png,Ti,Heat treated for 1 h at 700 Â°C (1290 Â°F),500.0
+img_199.png,Ti,-,50.0
+img_200.png,Ti,-,50.0
+img_201.png,Ti,-,500.0
+img_202.png,Ti,"Etched using 10 mL HF, 5 mL HNO3, 85 mL H2O",200.0
+img_203.png,Ti,"Etched using 10 mL HF, 5 mL HNO3, 85 mL H2O",50.0
+img_204.png,Ti,"Etched using 10 mL HF, 5 mL HNO3, 85 mL H2O",50.0
+img_205.png,Ti,"Slowly cooled from Î² phase and etched using 10 mL HF, 5 mL HNO3, 85 mL H2O",100.0
+img_206.png,Ti,Observed under scanning electron microscopy,
+img_207.png,Ti,-,100.0
+img_208.png,Ti,-,50.0
+img_209.png,Ti,-,200.0
+img_210.png,Ti,-,100.0
+img_211.png,Ti,-,200.0
+img_212.png,Ti,-,50.0
+img_213.png,Ti,Transmission electron microscopy,50.0
+img_214.png,Ti,Directionally solidified at 40 mm/h (1.6 in./h),100.0
+img_215.png,,Directionally solidified ingot grown at 5 mm/h (0.2 in./h),200.0
+img_216.png,,Directionally solidified ingot grown at 5 mm/h (0.2 in./h),50.0
+img_217.png,,Directionally solidified ingot grown at 5 mm/h (0.2 in./h),50.0
+img_218.png,Ti,Directionally solidified ingot,10.0
+img_219.png,Ti,Directionally solidified ingot,10.0
+img_220.png,Ti,Directionally solidified ingot,10.0
+img_221.png,Ti,Directionally solidified at 90 mm/h (3.5 in./h),300.0
+img_222.png,Ti,Directionally solidified at 90 mm/h (3.5 in./h),300.0
+img_223.png,Ti,Directionally solidified at 90 mm/h (3.5 in./h),200.0
+img_224.png,Ti,Directionally solidified at 360 mm/h (14 in./h),200.0
+img_225.png,Al Ti,As-cast,200.0
+img_226.png,Al Ti,Backscattered electron imaging,100.0
+img_227.png,Al Ti,Backscattered electron imaging,10.0
+img_228.png,Ti,As-cast ingot,100.0
+img_229.png,Ti,As-cast ingot,100.0
+img_230.png,Ti,As-cast ingot,100.0
+img_231.png,Ti,As-cast button form,100.0
+img_232.png,Ti,Investment cast test bars,50.0
+img_233.png,Ti,Arc-melted,25.0
+img_234.png,Ti,Sand casting,250.0
+img_235.png,Ti,Sand casting,50.0
+img_236.png,Ti,Cylindrical casting (macrostructure),1000.0
+img_237.png,Ti,Cylindrical casting (microstructure),100.0
+img_238.png,Ti,Airfoil-shaped prototype spindle (macrostructure),500.0
+img_239.png,Ti,Airfoil-shaped prototype spindle (microstructure),100.0
+img_240.png,Ti,Float zone directional solidification bar (macrostructure),1000.0
+img_241.png,Ti,Float zone directional solidification bar (microstructure),100.0
+img_242.png,Ti,"Laser deposited, low-power Nd:YAG (macrostructure)",500.0
+img_243.png,Ti,"Laser deposited, high-power CO2 (macrostructure)",500.0
+img_244.png,Ti,"Laser deposited, low-power Nd:YAG (microstructure)",25.0
+img_245.png,Ti,"Laser deposited, high-power CO2 (microstructure)",50.0
+img_246.png,Al,Simulation,50.0
+img_247.png,Al,Experimental micrograph,50.0
+img_248.png,Ti,Transmission electron microscopy,1.0
+img_249.png,Al,Scanning electron microscopy,10.0
+img_250.png,,Transmission electron microscopy,0.5
+img_251.png,Ti,Controlled cooling,100.0
+img_252.png,Zr,Cast and aged,20.0
+img_253.png,Mg,Annealed at 500 K for 40 min,2.0
+img_254.png,Mg,Annealed at 500 K for 20 min,10.0
+img_255.png,Au,Aged at 425 Â°C for 50 min,100.0
+img_256.png,Cu,"70,000Ã",0.1
+img_257.png,Al Cu,"720,000Ã",0.01
+img_258.png,Al Cu,"63,000Ã",0.25
+img_259.png,Al Cu,"18,000Ã",0.5
+img_260.png,Al Cu,8000Ã,1.0
+img_261.png,Fe,"225,000Ã",0.1
+img_262.png,Cu Fe,-,0.5
+img_263.png,Fe,-,0.05
+img_264.png,Fe,-,0.05
+img_265.png,,"35,000Ã",0.5
+img_266.png,Cu Zn,-,500.0
+img_267.png,Cu Fe,-,50.0
+img_268.png,Fe Ni,-,200.0
+img_269.png,,-,10.0
+img_270.png,,-,10.0
+img_271.png,Si U,500Ã,20.0
+img_272.png,Cd,200Ã,50.0
+img_273.png,C Cr Fe Mo V W,60Ã,200.0
+img_274.png,Zn,200Ã,50.0
+img_275.png,Al,700Ã,20.0
+img_276.png,Si U,500Ã,20.0
+img_277.png,Al,700Ã,20.0
+img_278.png,Zn,200Ã,50.0
+img_279.png,Cu,40Ã,200.0
+img_280.png,Cu,100Ã,100.0
+img_281.png,Cu,160Ã,100.0
+img_282.png,Sb,200Ã,50.0
+img_283.png,Sb,200Ã,50.0
+img_284.png,Sb,200Ã,50.0
+img_285.png,Cd,100Ã,100.0
+img_286.png,Cd,100Ã,100.0
+img_287.png,Sb Sn,50Ã,
+img_288.png,Sn,200Ã,50.0
+img_289.png,Bi,200Ã,50.0
+img_290.png,Sn,200Ã,50.0
+img_291.png,C Fe Nb,100Ã,100.0
+img_292.png,,Unidirectionally solidified; first stage of peritectic reaction,
+img_293.png,,Unidirectionally solidified; subsequent peritectic transformation of stage (a),
+img_294.png,,Unidirectionally solidified; advanced peritectic transformation stage,
+img_295.png,Fe,Plate martensite formation; as-quenched condition,40.0
+img_296.png,Fe,As-quenched; plate martensite structure,50.0
+img_297.png,Fe,Cooled to 4 K to reveal plate martensite structure,30.0
+img_298.png,Fe,Tempered at 700 Â°C (1290 Â°F) for 2 hours after martensitic transformation; Nital etch,20.0
+img_299.png,Fe,Water-quenched condition before tempering,100.0
+img_300.png,Fe,Tempered at 690 Â°C (1275 Â°F) for 1.5 Ã 10Â³ s,100.0
+img_301.png,Fe,Tempered at 690 Â°C (1275 Â°F) for 1.03 Ã 10â´ s,100.0
+img_302.png,Fe,Tempered at 690 Â°C (1275 Â°F) for 6.05 Ã 10âµ s,100.0
+img_303.png,Fe,Water-quenched condition before tempering,10.0
+img_304.png,Fe,Tempered at 690 Â°C (1275 Â°F) for 1.5 Ã 10Â³ s,10.0
+img_305.png,Fe,Tempered at 690 Â°C (1275 Â°F) for 1.03 Ã 10â´ s,10.0
+img_306.png,Fe,Tempered at 690 Â°C (1275 Â°F) for 6.05 Ã 10âµ s,10.0
+img_307.png,Ni,Water quenched from 550 Â°C (1020 Â°F); polished surface observed for relief effects,100.0
+img_308.png,Cu,"Solution heated at 900 Â°C (1650 Â°F), quenched in ice bath, then cooled to liquid nitrogen temperature (Ms â 20 Â°C)",200.0
+img_309.png,Cu,"Heated to 900 Â°C (1650 Â°F), held 1 hour, water quenched; observed in polarized light",100.0
+img_310.png,Cu,Melt spun at wheel speed of 6.5 m/s; examined under transmission electron microscopy,2.0
+img_311.png,Ni,Splat-cooled; observed under transmission electron microscopy,500.0
+img_312.png,Ni,Splat-cooled; observed under transmission electron microscopy,500.0
+img_313.png,Ti,8% deformed; observed under high-resolution transmission electron microscopy (HRTEM),0.002
+img_314.png,Ti,Observed under transmission electron microscopy,0.1
+img_315.png,,Observed under scanning electron microscopy after martensitic transformation,3.0
+img_316.png,,Observed under transmission electron microscopy,0.1
+img_317.png,,Observed under high-temperature transmission electron microscopy,0.1
+img_318.png,Fe Ni Ti,Observed under microscopy showing self-accommodation of R-phase,5.0
+img_319.png,Cu Ni Ti,Observed under microscopy showing self-accommodation of martensite phase,1.0
+img_320.png,Cu Zn,As-received sample showing multiple martensitic variants,100.0
+img_321.png,Cu Zn,After thermomechanical training,100.0
+img_322.png,,Observed using Nomarski differential interference contrast technique,20.0
+img_323.png,Fe,Partially transformed to upper bainite,1.0
+img_324.png,Fe,Transformed at 400 Â°C (750 Â°F),20.0
+img_325.png,Fe,Transformed at 400 Â°C (750 Â°F),20.0
+img_326.png,Fe,Transformed at 773 K for 3 min,20.0
+img_327.png,Fe,Transformed at 723 K for 3 min,20.0
+img_328.png,Fe,Transformed at 623 K for 10 min,20.0
+img_329.png,Fe,Isothermal decomposition at 493 K for 150 min,20.0
+img_330.png,Fe,Partially transformed at 668 K; light micrograph view,50.0
+img_331.png,Fe,Partially transformed at 668 K; transmission electron micrograph view,0.5
+img_332.png,,"Austenitized, isothermally transformed at 300 Â°C (570 Â°F), and quenched",20.0
+img_333.png,,Formed at 345 Â°C (650 Â°F),2.5
+img_334.png,,Observed under TEM to show carbide precipitation within bainitic ferrite,0.5
+img_335.png,,TEM observation of lower bainite structure,0.5
+img_336.png,Fe,Austenitized at 1200 Â°C (2200 Â°F) for 15 min and isothermally transformed at 600 Â°C (1100 Â°F) for 2 s,1.0
+img_337.png,Fe,Austenitized at 1200 Â°C (2200 Â°F) for 15 min and isothermally transformed at 550 Â°C (1020 Â°F) for 7 s,2.0
+img_338.png,,"Replica electron microscopy observation of mixed microstructure (granular bainite, austenite, and martensite); austenite boundaries delineated by irregular particles",1.0
+img_339.png,,Austenitized and isothermally transformed at 290 Â°C (550 Â°F) under 2400 MPa (24 kbar) pressure,10.0
+img_340.png,Cu,Solution treated and isothermally transformed at 500 Â°C (930 Â°F) for 1 min,5.0
+img_341.png,Ti,"Solution treated at 1000 Â°C (1800 Â°F) for 20 min and isothermally transformed at 750 Â°C (1400 Â°F) for 1 h; etched in 95% H2O, 4% HNO3, 1% HF",10.0
+img_342.png,,Annealed at 1050 Â°C (1920 Â°F) for 1300 h; etched in 1% chromic acid solution at 5 Vdc,50.0
+img_343.png,,Annealed at 940 Â°C (1725 Â°F) for 9720 h; etched in 1% chromic acid solution at 5 Vdc,100.0
+img_344.png,,Rolled copper deformed to 5% cold reduction (cr),10.0
+img_345.png,,Plane strain compression at 783 K (~0.8 Tm) and strain rate 5 sâ»Â¹ to ÎµvM = 1.5,5.0
+img_346.png,Fe,Rolled to 90% cold reduction,1.0
+img_347.png,Fe,Cold rolled 5% in (111)[11] orientation,0.5
+img_348.png,Fe,Cold rolled 20% in (111)[11] orientation,0.5
+img_349.png,Ni,Cross rolled 90% at 200 Â°C (390 Â°F),1.0
+img_350.png,Ni,Cross rolled 90% at 200 Â°C (390 Â°F); longitudinal cross section view,1.0
+img_351.png,Ni,Cold rolled 8% and annealed 2 h at 600 Â°C (1110 Â°F),2.0
+img_352.png,Fe,"Cold rolled 80% in (001)[110] orientation, as-rolled condition",0.5
+img_353.png,Fe,Annealed at 400 Â°C (750 Â°F) for 1280 min after 80% rolling,0.5
+img_354.png,Fe,Annealed at 600 Â°C (1110 Â°F) for 1280 min after 80% rolling,0.5
+img_355.png,Fe,Annealed at 800 Â°C (1470 Â°F) for 5 min after 80% rolling,0.5
+img_356.png,Fe,"Cold rolled 70% in (111)[10] orientation, as-rolled condition",1.0
+img_357.png,Fe,Annealed at 550 Â°C (1020 Â°F) for 20 min after 70% cold rolling,1.0
+img_358.png,,Rolled and partially recrystallized; etched in 2% nital,100.0
+img_359.png,Fe O,Deformed and partially recrystallized; etched in 2% nital,35.0
+img_360.png,C Fe,Cold rolled 90% and annealed at 550 Â°C for 106 s; etched in nital,25.0
+img_361.png,C Fe,Cold rolled 90% and annealed at 550 Â°C for 430 s; etched in nital,25.0
+img_362.png,C Fe,Cold rolled 90% and annealed at 550 Â°C for 865 s; etched in nital,20.0
+img_363.png,Al,Cold rolled 90% and heated in HVEM at 264 Â°C for 480 s,8.0
+img_364.png,Al,Cold rolled and annealed during recovery,1.0
+img_365.png,Fe,"Cold rolled, annealed repeatedly for recrystallization; normal grain growth at 800 Â°C (1470 Â°F) for 12 min; etched in 2% nital",1000.0
+img_366.png,Fe,"Rolled 90% at 800 Â°C (1470 Â°F), recrystallized at 1000 Â°C (1830 Â°F) for 30 min, then annealed at 1000 Â°C for 96 h for secondary recrystallization; electrolytic etch",500.0
+img_367.png,Ni,Solidification with columnar grain growth; analyzed using electron backscatter diffraction (EBSD),1800.0
+img_368.png,C Fe,Mounted in thermosetting epoxy; polished edge observed,50.0
+img_369.png,C Fe,Mounted in thermosetting phenolic resin; polished edge observed,50.0
+img_370.png,Cu,Abraded on 220-grit silicon carbide paper; taper section prepared; etched with aqueous ferric chloride,40.0
+img_371.png,Cu,Abraded and polished until about 5 Âµm of metal removed; etched with aqueous ferric chloride,40.0
+img_372.png,Cu,Abraded and polished until about 15 Âµm of metal removed; etched with aqueous ferric chloride,40.0
+img_373.png,Fe,Abraded on 220-grit SiC paper; taper section prepared; electrolytic etch in oxalic acid,20.0
+img_374.png,Fe,Abraded on 600-grit SiC paper; polished until about 1 Âµm of metal removed; electrolytic etch in oxalic acid,20.0
+img_375.png,Fe,Abraded on 600-grit SiC paper; polished until about 3 Âµm of metal removed; electrolytic etch in oxalic acid,20.0
+img_376.png,,Annealed; taper section abraded on 220-grit silicon carbide paper; polarized light used,50.0
+img_377.png,,Annealed; abraded on 220-grit silicon carbide paper and polished until ~2.5 Âµm removed,50.0
+img_378.png,,Annealed; abraded on 220-grit silicon carbide paper and polished until ~15 Âµm removed,50.0
+img_379.png,,Annealed; abraded on 220-grit silicon carbide paper and polished until ~45 Âµm removed,50.0
+img_380.png,,Taper section abraded on 220-grit silicon carbide paper,40.0
+img_381.png,,Abraded on 000 emery paper and lightly polished to remove scratches,40.0
+img_382.png,,Abraded on 600-grit silicon carbide paper and lightly polished,40.0
+img_383.png,,Abraded on 600-grit silicon carbide paper and polished longer than usual,40.0
+img_384.png,,Belt abraded on 100-mesh Al2O3; taper section observed,
+img_385.png,,Belt abraded on 100-mesh Al2O3; taper section observed,
+img_386.png,,Abraded on abrasive belt and polished briefly to remove scratches,5.0
+img_387.png,,Abraded on 600-grit silicon carbide paper and lightly polished,5.0
+img_388.png,,Abraded on 600-grit silicon carbide paper and polished for longer duration,5.0
+img_389.png,,Hardened but not tempered; abusively ground taper section,40.0
+img_390.png,,Hardened; dark-etching tempered bands from dry belt grinding,40.0
+img_391.png,,Hardened but not tempered; polished true structure,40.0
+img_392.png,,Abraded on 220-grit silicon carbide paper,20.0
+img_393.png,,Abraded on 600-grit silicon carbide paper,20.0
+img_394.png,,Abraded on fine fixed-abrasive lap,20.0
+img_395.png,,Abraded on 600-grit silicon carbide paper,100.0
+img_396.png,,Abraded on fine fixed-abrasive lap,100.0
+img_397.png,,Abraded on 600-grit silicon carbide paper,20.0
+img_398.png,,Abraded on fine fixed-abrasive lap,20.0
+img_399.png,Al,Abraded on 600-grit silicon carbide paper,40.0
+img_400.png,Al,Abraded on fine fixed-abrasive lap,40.0
+img_401.png,,Finished on 600-grit silicon carbide paper using water as fluid,40.0
+img_402.png,,Finished on 600-grit silicon carbide paper using wax on abrasion surface,40.0
+img_403.png,,Finished using a sledge microtome,40.0
+img_404.png,,Abraded on 220-grit silicon carbide paper,20.0
+img_405.png,,Abraded on 600-grit silicon carbide paper,20.0
+img_406.png,,Abraded on fine fixed-abrasive lap,20.0
+img_407.png,Cu Zn,Polished on fine Al2O3 and etched for short duration,40.0
+img_408.png,Cu Zn,Polished on fine Al2O3 and etched for moderate duration,40.0
+img_409.png,Cu Zn,Polished on fine Al2O3 and etched for long duration,40.0
+img_410.png,Fe,"Abraded on fixed-abrasive lap, polished using 10â20 Âµm Al2O3 on billiard cloth",40.0
+img_411.png,Fe,"Abraded on fixed-abrasive lap, polished using 4â8 Âµm diamond on synthetic suede cloth",40.0
+img_412.png,Al Si,"Abraded on fixed-abrasive lap, polished using 10-20 Âµm Al2O3 on billiard cloth",40.0
+img_413.png,Al Si,"Abraded on fixed-abrasive lap, polished using 4-8 Âµm diamond on synthetic suede cloth",40.0
+img_414.png,C Fe,"Abraded on fixed-abrasive lap, polished using 10-20 Âµm Al2O3 on long-nap billiard cloth",40.0
+img_415.png,C Fe,"Abraded on fixed-abrasive lap, polished using 1 Âµm diamond on synthetic suede short-nap cloth",40.0
+img_416.png,C Fe,"Abraded on fixed-abrasive lap, polished using 1 Âµm diamond on cotton drill",40.0
+img_417.png,C Fe,Taper section polished using 10-20 Âµm Al2O3 on long-nap billiard cloth,40.0
+img_418.png,C Fe,Taper section polished using 1 Âµm diamond on short-nap synthetic suede,40.0
+img_419.png,C Fe,"Rough polished on 1 Âµm diamond, finish polished 4 h on 0.1 Âµm Al2O3 using propylene glycol",20.0
+img_420.png,C Fe,"Rough polished on 1 Âµm diamond, finish polished 4 h on 0.1 Âµm Al2O3 using 2-to-1 propylene glycol and water",20.0
+img_421.png,C Fe,"Rough polished on 1 Âµm diamond, finish polished 4 h on 0.1 Âµm Al2O3 using water",20.0
+img_422.png,C Fe,"Vibratory polished with 40 g load; rough polished on 1 Âµm diamond, finish polished 4 h on 0.1 Âµm Al2O3 in 2-to-1 propylene glycol-water",100.0
+img_423.png,C Fe,"Vibratory polished with 70 g load; rough polished on 1 Âµm diamond, finish polished 4 h on 0.1 Âµm Al2O3 in 2-to-1 propylene glycol-water",100.0
+img_424.png,C Fe,"Vibratory polished with 380 g load; rough polished on 1 Âµm diamond, finish polished 4 h on 0.1 Âµm Al2O3 in 2-to-1 propylene glycol-water",100.0
+img_425.png,Cu Zn,"Polished with magnesia suspended in 3-to-1 propylene glycol-water, no NH4OH addition",20.0
+img_426.png,Cu Zn,"Polished with magnesia suspended in 3-to-1 propylene glycol-water, optimal NH4OH addition",20.0
+img_427.png,Cu Zn,"Polished with magnesia suspended in 3-to-1 propylene glycol-water, excessive NH4OH addition",20.0
+img_428.png,W,Polished by etch-attack technique using Al2O3 abrasive in aqueous KCN and NaOH,100.0
+img_429.png,W,Polished by electromechanical technique using Al2O3 abrasive in saturated aqueous NaOH,100.0
+img_430.png,C Fe,Mounted in phenolic plastic; polished by standard technique,20.0
+img_431.png,C Fe,Mounted in allyl plastic; polished by standard technique,20.0
+img_432.png,C Fe,Mounted in polyvinyl formal plastic; polished by standard technique,20.0
+img_433.png,C Fe,Epoxy mount with steel shot incorporated; finish polished by standard technique,20.0
+img_434.png,C Fe,Epoxy mount with electrodeposited nickel edge coating; finish polished by standard technique,20.0
+img_435.png,C Fe,Epoxy mount; finish polished on rigid napless pad with diamond abrasive,20.0
+img_436.png,C Fe,Epoxy mount; finish polished using modified technique for improved edge retention,20.0
+img_437.png,,Abraded on 6 Âµm diamond-plastic lap,20.0
+img_438.png,,Polished for short period on cotton drill cloth charged with 6 Âµm diamond abrasive,20.0
+img_439.png,,Polished further to remove chipping artifacts,20.0
+img_440.png,,Abraded on 400-grit silicon carbide paper,1000.0
+img_441.png,,Abraded on a fine fixed-abrasive lap,1000.0
+img_442.png,,Abraded on a leadfoil lap coated with 1 Âµm diamond paste,1000.0
+img_443.png,,Polished on 1 Âµm diamond abrasive on cotton drill cloth after abrasion,1000.0
+img_444.png,,Final polishing by conventional method using fine Al2O3,250.0
+img_445.png,,Final polishing by vibratory method using colloidal silica solution,250.0
+img_446.png,,Final polishing by chemical polishing,250.0
+img_447.png,,Final polishing using tap water as suspending liquid,20.0
+img_448.png,,Final polishing using buffer solution with pH 7,20.0
+img_449.png,Al Si,Finish polished using semiautomatic machine with napped cloth in alcohol suspension,20.0
+img_450.png,Al Si,Finish polished using semiautomatic machine with napped cloth and carrier paste,40.0
+img_451.png,Al,Annealed and finish polished using colloidal silica,200.0
+img_452.png,Al Cu Si,Finish polished using colloidal silica and etched with Kellerâs reagent,50.0
+img_453.png,Al Si,Prepared by semiautomatic method using diamond abrasives and colloidal silica,50.0
+img_454.png,Al Si,Abraded on P800-grade silicon carbide paper and polished on 1 Âµm diamond,40.0
+img_455.png,Al Si,Polished for longer time after P800-grade abrasion and diamond polishing,40.0
+img_456.png,,Prepared by semiautomated procedure using diamond suspensions; final polishing with 1 Âµm diamond on satin-weave silk cloth,20.0
+img_457.png,Al Si,Prepared by semiautomated procedure using diamond suspensions; final polishing with 1 Âµm diamond on satin-weave silk cloth,50.0
+img_458.png,,Prepared by semiautomatic procedure using diamond suspensions; finish polished using 1 Âµm diamond abrasive,40.0
+img_459.png,,Prepared by semiautomatic procedure using diamond suspensions; finish polished using 1 Âµm diamond abrasive,100.0
+img_460.png,,Prepared by semiautomatic procedure using diamond suspensions; finish polished using colloidal silica,20.0
+img_461.png,,Prepared by modified procedure using diamond abrasive suspension; hot extruded tube,100.0
+img_462.png,,Prepared by modified procedure using diamond abrasive suspension; compressed uniaxially at 200 Â°C,25.0
+img_463.png,,Abraded on polymer lap charged with 9 Âµm diamond,100.0
+img_464.png,,Polished on woven silk cloth charged with 6 Âµm diamond abrasive for 3 min,100.0
+img_465.png,,Further polished on napped cloth charged with 1 Âµm diamond abrasive,100.0
+img_466.png,Sn,Polished specimen coated with platinum oxide layer by reactive sputtering,25.0
+img_467.png,,Polished section thermally etched in air at 1400 Â°C for 1 h,20.0
+img_468.png,Cu,Line-etched grains,50.0
+img_469.png,,Macroetched in 50% aqueous HCl,25000.0
+img_470.png,,Macroetched in 50% aqueous HCl,25000.0
+img_471.png,,Macroetched in 50% HCl,25000.0
+img_472.png,,Macroetched with 50% HCl solution,50000.0
+img_473.png,,Macroetched with 50% HCl solution,50000.0
+img_474.png,,Macroetched with 50% HCl solution,25000.0
+img_475.png,,Macroetched with 50% HCl solution,50000.0
+img_476.png,,Macroetched with 50% HCl solution,50000.0
+img_477.png,,Macroetched with 50% HCl solution,50000.0
+img_478.png,,Etched in 50% aqueous HCl,
+img_479.png,,4% picral etch,50.0
+img_480.png,,4% picral etch,50.0
+img_481.png,Fe Nb Ta,"Solution annealed; etched in 15 mL HCl, 10 mL acetic acid, 10 mL HNO3, and 2 drops glycerol",10.0
+img_482.png,Fe Nb Ta,"Solution annealed; etched in 15 mL HCl, 10 mL acetic acid, 10 mL HNO3, and 2 drops glycerol",10.0
+img_483.png,Fe Nb Ta,"Solution annealed; etched in 15 mL HCl, 10 mL acetic acid, 10 mL HNO3, and 2 drops glycerol",10.0
+img_484.png,Cu,Swab etched with aqueous 3% (NH4)2S2O8 and 1% NH4OH,10.0
+img_485.png,Cu,Swab etched with aqueous 3% (NH4)2S2O8 and 1% NH4OH,10.0
+img_486.png,Cu,Swab etched with aqueous 3% (NH4)2S2O8 and 1% NH4OH,10.0
+img_487.png,Cu,As-polished,100.0
+img_488.png,Cu,As-polished,100.0
+img_489.png,Cu,As-polished,100.0
+img_490.png,Cu,As-polished,100.0
+img_491.png,,As-polished,100.0
+img_492.png,,"Chemically polished in 45 mL HNO3, 45 mL H2O2, and 10 mL HF",100.0
+img_493.png,,"Chemically polished in 45 mL HNO3, 45 mL H2O2, and 10 mL HF",100.0
+img_494.png,,2% nital,10.0
+img_495.png,,2% nital,10.0
+img_496.png,,2% nital,10.0
+img_497.png,,Tint etched in 10% Na2S2O5,100.0
+img_498.png,,Tint etched in 10% Na2S2O5,100.0
+img_499.png,,Solution annealed and aged; etched in glyceregia,100.0
+img_500.png,,Solution annealed and aged; etched in glyceregia,100.0
+img_501.png,,Solution annealed and aged; etched in glyceregia,100.0
+img_502.png,U,Electrolytically etched,100.0
+img_503.png,Ni,Heat treated 100 h at 870 Â°C (1600 Â°F) to produce needlelike orthorhombic Ni3Nb,10.0
+img_504.png,Ni,Heat treated 100 h at 870 Â°C (1600 Â°F) to produce needlelike orthorhombic Ni3Nb,10.0
+img_505.png,Cr Mo V,Thermally etched to reveal austenite grain boundaries at 1000 Â°C (1830 Â°F) on hot-stage microscope,
+img_506.png,C Fe,Quenched in hot stage; partial pearlite formed before martensite,
+img_507.png,C Fe,Same area as (a) after light polishing and etching,
+img_508.png,C Fe,Photographed with medium-contrast film (Tri-X Ortho),
+img_509.png,C Fe,Photographed with medium-contrast film (Tri-X Ortho),
+img_510.png,C Fe,Photographed with medium-contrast film (Tri-X Ortho),
+img_511.png,C Fe,Photographed with medium-contrast film (Tri-X Ortho),
+img_512.png,C Fe,Photographed with high-contrast film (Contrast Process Ortho),
+img_513.png,C Fe,Photographed with high-contrast film (Contrast Process Ortho),
+img_514.png,C Fe,Photographed with high-contrast film (Contrast Process Ortho),
+img_515.png,C Fe,Photographed with high-contrast film (Contrast Process Ortho),
+img_516.png,C Fe,Photographed with medium-contrast film (Tri-X Ortho),
+img_517.png,C Fe,Photographed with medium-contrast film (Tri-X Ortho),
+img_518.png,C Fe,Photographed with medium-contrast film (Tri-X Ortho),
+img_519.png,C Fe,Photographed with medium-contrast film (Tri-X Ortho),
+img_520.png,C Fe,Photographed with high-contrast film (Contrast Process Ortho),
+img_521.png,C Fe,Photographed with high-contrast film (Contrast Process Ortho),
+img_522.png,C Fe,Photographed with high-contrast film (Contrast Process Ortho),
+img_523.png,C Fe,Photographed with high-contrast film (Contrast Process Ortho),
+img_524.png,,Sintered hard metal used in metal cutting operations,250.0
+img_525.png,,Sintered; fractured during fracture toughness test,5.0
+img_526.png,,Sintered; sectioned through cracked region,5.0
+img_527.png,,Sintered; backscattered electron imaging at 15 keV,5.0
+img_528.png,Al,Deep etched with hot sodium hydroxide for topographic contrast,10.0
+img_529.png,Al,Freshly polished cross section; backscattered electron imaging,10.0
+img_530.png,Al,Dipped in Mallete's reagent to form Mo oxide layer on silicon particles,10.0
+img_531.png,Fe,Mechanically lapped and electrolytically polished in 10% perchloric acid and 90% acetic acid,5.0
+img_532.png,,Environmental SEM at 600 Pa (elevated pressure),2.0
+img_533.png,,Conventional SEM at high vacuum (10â»Â³ Pa),2.0
+img_534.png,,"Environmental SEM at 91% RH, 5 Â°C (40 Â°F)",2.0
+img_535.png,Si,"Unetched cross section, backscattered electron image",10.0
+img_536.png,,"Deep etched using sodium hydroxide, secondary electron image",10.0
+img_537.png,,Backscattered electron image of ductile fracture surface,20.0
+img_538.png,,Backscattered electron image of brittle fracture surface,20.0
+img_539.png,Al,Fracture surface imaged using SEM,50.0
+img_540.png,Cu,Deep etched in 32% HCl for 5 min at room temperature,20.0
+img_541.png,,Thermally etched surface observed by Î³-modulation,5.0
+img_542.png,,Annealed at 900 Â°C (1650 Â°F) for 5 h,20.0
+img_543.png,,Heated to 600 Â°C (1110 Â°F) before sintering,100.0
+img_544.png,,Sintered for 1 h at 1050 Â°C (1920 Â°F),100.0
+img_545.png,,Sintered for 64 h at 1050 Â°C (1920 Â°F),100.0
+img_546.png,,Sintering in vacuum atmosphere,20.0
+img_547.png,,Sintering in oxygen-containing argon atmosphere,20.0
+img_548.png,Cr Fe Ni,Gray-scale image of etched grains,100.0
+img_549.png,,Gray-scale image of sintered structure,2.0
+img_550.png,C Fe,Gray-scale micrograph of etched structure,50.0
+img_551.png,,Gray-scale image of polished surface,50.0
+img_552.png,,"Gray-scale image, medium-quality specimen, fiber core detectable",100.0
+img_553.png,,"Gray-scale image, medium-quality specimen, full fibers detectable",100.0
+img_554.png,,"Gray-scale image, high-quality specimen, core not detectable",100.0
+img_555.png,C Fe W,Gray-scale image showing cementite particles,30.0
+img_556.png,C Fe,Gray-scale micrograph of malleable cast iron,100.0
+img_557.png,C Fe Si,Gray-scale micrograph of gray cast iron,100.0
+img_558.png,C Fe Si,Gray-scale micrograph of nodular cast iron,100.0
+img_559.png,C Fe Si,Gray-scale micrograph showing graphite morphology before classification,100.0
+img_560.png,C Fe Si,Image analyzer output for irregular graphite classification,100.0
+img_561.png,C Fe Si,Gray-scale micrograph showing flake graphite morphology,100.0
+img_562.png,C Fe Si,Image analyzer output for flake graphite classification,100.0
+img_563.png,Al,Gray-scale micrograph for areal fraction analysis,60.0
+img_564.png,Al Cu Mg Zn,Gray-scale micrograph showing partially recrystallized grains,50.0
+img_565.png,Al Cu Mg Zn,Gray-scale micrograph with overlaid test grid for point counting,50.0
+img_566.png,Fe Ni,Gray-scale image of liquid-phase sintered alloy,50.0
+img_567.png,Al Mg Si,Gray-scale micrograph showing free path between silicon particles,100.0
+img_568.png,Al Si,Gray-scale micrograph showing dendritic structure,200.0
+img_569.png,Al Mg Si,Gray-scale micrograph of semisolid processed casting,500.0
+img_570.png,Mg,Unetched microstructure from high-pressure die casting,200.0
+img_571.png,Fe,Isothermally transformed at suitable temperature,20.0
+img_572.png,Fe,Three-dimensional reconstruction after isothermal transformation,10.0
+img_573.png,Fe,Isothermal transformation micrograph,20.0
+img_574.png,Al,Coarsened for 10 min at 553 Â°C (995 Â°F),100.0
+img_575.png,Al,Three-dimensional reconstruction with eutectic phase omitted,100.0
+img_576.png,Ni,"Solution treated at 1200 Â°C for 135 h, quenched, and aged 141.7 h at 1050 Â°C",2.0
+img_577.png,Fe,Reacted at 640 Â°C (1185 Â°F) for 40 s,50.0
+img_578.png,,Liquid phase sintered at 1780 K for 1 min in microgravity environment,
+img_579.png,Fe,Optical micrograph of serial section 81 with Vickers indents,50.0
+img_580.png,Fe,Optical micrograph of section 33 after cropping,10.0
+img_581.png,,Ammonium hydroxide/hydrogen peroxide etch,125.0
+img_582.png,Fe Ni,Nital etch,75.0
+img_583.png,Fe,Nital etch,60.0
+img_584.png,Fe,Nital etch,50.0
+img_585.png,C Fe Si,Nital etch,50.0
+img_586.png,C Fe,Nital etch,50.0
+img_587.png,C Fe,"Nital etch, SEM secondary electron imaging",5.0
+img_588.png,C Fe,"Nital etch, SEM secondary electron imaging",10.0
+img_589.png,C Fe,Nital etch,300.0
+img_590.png,C Fe,Picric plus boiling picric acid etch,200.0
+img_591.png,C Fe,Picric plus boiling picric acid etch,200.0
+img_592.png,,-,200.0
+img_593.png,,-,200.0
+img_594.png,Fe,Electrolytically etched in 10% oxalic acid solution,40.0
+img_595.png,Cr Fe,Vilella's reagent,10.0
+img_596.png,Cr Fe,Vilella's reagent,10.0
+img_597.png,Cr Fe,Vilella's reagent,10.0
+img_598.png,Cr Fe,Vilella's reagent,10.0
+img_599.png,Cr Fe,Vilella's reagent,10.0
+img_600.png,Fe,Etched in 4% picral,50.0
+img_601.png,Fe,Etched in 4% picral,50.0
+img_602.png,C Fe Mn,Etched in 2% nital,20000.0
+img_603.png,C Fe Mn,Gold-coated acetate replica,20000.0
+img_604.png,C Fe Mn,-,100.0
+img_605.png,C Fe Mn,Gold-coated acetate replica,100.0
+img_605.png,V,Vilella's reagent on original surface,10.0
+img_606.png,V,Vilella's reagent on original surface,50.0
+img_607.png,S,4% picral on original surface,50.0
+img_608.png,S,4% picral on original surface,50.0
+img_609.png,Cr,Vilella's reagent on original surface,100.0
+img_610.png,Cr,Vilella's reagent on original surface,50.0
+img_611.png,,Vilella's reagent,10.0
+img_612.png,,Vilella's reagent,10.0
+img_613.png,Cu,As-polished (embedded),100.0
+img_614.png,Cu,As-polished (unembedded),100.0
+img_615.png,Cu,As-polished (unembedded),100.0
+img_616.png,Cu,As-polished,100.0
+img_617.png,Cu,As-polished,100.0
+img_618.png,Cu,As-polished,100.0
+img_619.png,Bi,"Ground on P1000 SiC waterproof paper, annealed at 950 Â°C (1740 Â°F) for 10 h, furnace cooled to 720 Â°C (1330 Â°F) for 16 h, air cooled",25.0
+img_620.png,Bi,Polished with 9 Âµm diamond suspension,25.0
+img_621.png,Bi,Final polished with 1 Âµm diamond paste on napless cloth,25.0
+img_622.png,Bi,Final polished with 1 Âµm diamond suspension on napped cloth,25.0
+img_623.png,S,"Austenitized at 1000 Â°C (1830 Â°F) for 1 h, furnace cooled to 400 Â°C (750 Â°F) for 2 h, salt bath at 400 Â°C (750 Â°F) for 4 h, air cooled, etched with glyceregia",20.0
+img_624.png,S,"Austenitized at 1000 Â°C (1830 Â°F) for 1 h, furnace cooled to 700 Â°C (1290 Â°F) for 2 h, salt bath at 700 Â°C (1290 Â°F) for 4 h, air cooled, etched with glyceregia",20.0
+img_625.png,Mg,"Annealed, etched with 2% nital",100.0
+img_626.png,Cr,Etched with 4% nital,20.0
+img_627.png,Cr,Etched with 4% picral,20.0
+img_628.png,S,Etched with glyceregia,20.0
+img_629.png,S,Etched with 4% nital,20.0
+img_630.png,Mg,Etched with 4% nital,15.0
+img_631.png,S,Etched with 4% nital,8.0
+img_632.png,Al,Etched with 4% nital,20.0
+img_633.png,Cu,"Austempered at 900 Â°C for 2 h, salt bath at 360 Â°C for 2 min, air cooled, etched with 4% nital",10.0
+img_634.png,Cu,"Same sample as previous, etched with 4% picral",10.0
+img_635.png,Cu,"Austempered at 900 Â°C for 2 h, salt bath at 360 Â°C for 30 min, air cooled, etched with 4% nital",10.0
+img_636.png,,Etched with 4% nital,8.0
+img_637.png,,Etched with glyceregia,20.0
+img_638.png,S,Etched with glyceregia,20.0
+img_639.png,,"Slightly etched with 4% nital, bright-field illumination",10.0
+img_640.png,,"Slightly etched with 4% nital, dark-field illumination",10.0
+img_641.png,,"Heat treated at 1000 Â°C for 1 h, furnace cooled to 400 Â°C for 2 h, salt bath at 400 Â°C for 4 h, air cooled, examined in bright-field illumination, etched with glyceregia",10.0
+img_642.png,,"Same as previous, dark-field illumination",10.0
+img_643.png,,"Examined with SEM, deeply etched with 50% HCl",20.0
+img_644.png,,"Examined with SEM, deeply etched with 50% HCl",10.0
+img_645.png,S,As-polished,100.0
+img_646.png,S,As-polished,100.0
+img_647.png,Cu,As-polished,100.0
+img_648.png,S,As-polished,100.0
+img_649.png,S,As-polished,110.0
+img_650.png,Cu,As-polished,100.0
+img_651.png,S,As-polished,100.0
+img_652.png,,As-polished,100.0
+img_653.png,Cu,As-polished,100.0
+img_654.png,Mg,As-polished,100.0
+img_655.png,,As-polished,100.0
+img_656.png,,As-polished,100.0
+img_657.png,,As-polished,100.0
+img_658.png,Cu,As-polished,100.0
+img_659.png,Mg,As-polished,100.0
+img_660.png,Al,As-polished,100.0
+img_661.png,C Fe Mn P S Si,"Etched with 4% nital, pearlitic matrix",100.0
+img_662.png,,"Fine pearlite, same as Fig. 75",20.0
+img_663.png,,"Pearlitic-ferritic matrix with phosphorous eutectic (E), etched with 4% nital",100.0
+img_664.png,,"E, ternary phosphorous eutectic; P, pearlite; F, ferrite",20.0
+img_665.png,C Cr Cu Fe Mn P Si,"Ferritic-pearlitic matrix, etched with 4% nital",100.0
+img_666.png,C Cu Fe Mg Mn P S Si,"Ferritic matrix, etched with 4% nital",100.0
+img_667.png,C Fe Mg Mn Ni P S Si,"Pearlitic matrix with ferritic halos around graphite nodules, etched with 4% nital",100.0
+img_668.png,,"Ferritic-pearlitic matrix, etched with 4% nital",100.0
+img_669.png,,"Annealed at 900Â°C, furnace cooled in stages, ferritic matrix, etched with 4% nital",100.0
+img_670.png,C Cr Fe Mg Mn Ni P Si,"C, cementite; L, ledeburite; P, pearlite and ferrite around graphite nodules; etched with 4% nital",80.0
+img_671.png,,"C, cementite; L, ledeburite; F, ferrite; and P, pearlite",20.0
+img_672.png,C Cr Fe Mg Mn Ni P S Si,"Austenite and eutectic carbides type M7C3, etched with glyceregia",20.0
+img_673.png,,"Acicular ferrite and austenite; austempered at 900Â°C, held 2 h, then salt bath at 360Â°C for 180 min, air cooled; etched with 4% nital",20.0
+img_674.png,,"Acicular ferrite and austenite; austempered at 900Â°C, held 2 h, then salt bath at 380Â°C for 180 min, air cooled; etched with 4% nital",20.0
+img_675.png,,"Martensite and small amount of acicular ferrite (AF); austempered at 900Â°C, held 2 h, salt bath at 300Â°C for 2 min, air cooled; etched with 4% nital",20.0
+img_676.png,C Fe Mg Mn P S Si,"Ferritic-pearlitic matrix, etched with 4% nital",100.0
+img_677.png,Al C Cr Cu Fe Mn Ni P S Si,"Annealed at 950Â°C for 10 h, furnace cooled to 720Â°C, held 16 h, air cooled; pearlitic-ferritic matrix; etched with 4% nital",80.0
+img_678.png,Al C Cr Cu Fe Mn Ni P S Si,"Annealed as in Fig. 92, ferritic matrix, etched with 4% nital",80.0
+img_679.png,C Fe Mn P S Si,"C, cementite; P, pearlite; etched with 4% nital",25.0
+img_680.png,,"Network of massive cementite and tempered martensite, etched with 4% picral",50.0
+img_681.png,,"PC, primary carbides; EC, eutectic carbides in martensitic matrix with fine, globular secondary carbides; heat treated at 1000Â°C for 1 h, furnace cooled to 550Â°C, held 4 h, salt bath 400Â°C, air cooled; etched with glyceregia",10.0
+img_682.png,C Fe,-,20.0
+img_683.png,C Fe,Cold-rolled to 30% reduction,20.0
+img_684.png,C Fe,Cold-rolled to 50% reduction,20.0
+img_685.png,C Fe,Cold-rolled to 70% reduction,20.0
+img_686.png,C Fe,Cold-rolled to 90% reduction,20.0
+img_687.png,C Fe,Heated in ferrite + austenite region,20.0
+img_688.png,C Fe,-,50.0
+img_689.png,C Fe,Massive carbides morphology,10.0
+img_690.png,C Fe,Medium-sized carbides morphology,10.0
+img_691.png,C Fe,"Small, dispersed carbides morphology",10.0
+img_692.png,C Fe,Batch-annealed,20.0
+img_693.png,C Fe,Slow-cooled,20.0
+img_694.png,C Fe,Normalized,10.0
+img_695.png,C Fe,-,20.0
+img_696.png,C Fe,-,10.0
+img_697.png,C Fe,"As-rolled, longitudinal plane",100.0
+img_698.png,C Fe,"As-rolled, planar view",100.0
+img_699.png,C Fe,"Forged, longitudinal plane",200.0
+img_700.png,C Fe,"Forged, transverse plane",200.0
+img_701.png,C Fe,Improperly ground surface showing scratches and deformation,50.0
+img_702.png,C Fe,Properly ground surface showing true microstructure,50.0
+img_703.png,C Cr Fe Mn Mo Si,As-cooled condition,10.0
+img_704.png,C Cr Fe Mn Mo Si,Deformation zone from shearing,10.0
+img_705.png,C Fe,"Hot-rolled, sectioned with abrasive cutoff wheel",25.0
+img_706.png,C Fe,"Hot-rolled, sectioned with band saw",25.0
+img_707.png,C Fe,"Hot-rolled, sectioned with shear",25.0
+img_708.png,C Fe,"Heated during sectioning, tempered martensite in ferrite matrix",10.0
+img_709.png,C Fe,"Heated during sectioning, tempered martensite and pearlite in ferrite matrix",10.0
+img_710.png,C Fe,"Heated during sectioning, pearlite in ferrite matrix",10.0
+img_711.png,C Fe,True microstructure after sectioning,10.0
+img_712.png,Fe Ni,Mounted in thermosetting phenolic resin,100.0
+img_713.png,Fe Ni,Mounted in castable epoxy,100.0
+img_714.png,Fe Zn,Transmitted light through castable epoxy mount,50.0
+img_715.png,Fe Zn,Brightfield illumination (reflected light),50.0
+img_716.png,C Fe,Internally oxidized,10.0
+img_717.png,C Fe,Mounted in a steel clamp,20.0
+img_718.png,C Fe,Two specimens butted in a steel clamp,20.0
+img_719.png,C Fe,-,100.0
+img_720.png,C Fe,Fully decarburized,200.0
+img_721.png,C Fe,"Improperly polished, showing comet tails",100.0
+img_722.png,C Fe,"Properly polished, showing true microstructure",100.0
+img_723.png,C Fe,Planar view showing large surface carbides,100.0
+img_724.png,C Fe,Nondecarburized,50.0
+img_725.png,C Fe,-,20.0
+img_726.png,C Fe,Etched in 2% nital,25.0
+img_727.png,C Fe,Etched in Marshall's reagent,25.0
+img_728.png,C Fe,"High magnification, showing duplex ferrite grain size",20.0
+img_729.png,C Fe,"Low magnification, showing true mixture of grain sizes",100.0
+img_730.png,C Fe,Batch-annealed,20.0
+img_731.png,C Fe,"Very-low-carbon, decarburized",50.0
+img_732.png,C Fe,Tint etched with Beraha's reagent,10.0
+img_733.png,C Fe,"Carburized, cementite darkened by boiling alkaline sodium picrate etch",20.0
+img_734.png,Al Fe Zn,Etched in 1% nitric acid in amyl alcohol,10.0
+img_735.png,Al Zn,Etched by suspending coated surface over fuming nitric acid,50.0
+img_736.png,Al Zn,Etched by suspending coated surface over fuming nitric acid,50.0
+img_737.png,C Fe,Etched with 4% picral,50.0
+img_738.png,C Fe,Etched with 4% picral + 2% nital,50.0
+img_739.png,C Cr Fe Ni,"Quenched and tempered, etched with 4% picral + 2% nital",50.0
+img_740.png,C Fe Mn,"As-rolled, etched with 4% picral + 2% nital",50.0
+img_741.png,C Fe,Etched with 4% picral,100.0
+img_742.png,C Fe,Etched with 4% picral,20.0
+img_743.png,C Fe,Etched with 4% picral,50.0
+img_744.png,C Fe,"Spheroidized below A1 temperature, etched with 4% picral",10.0
+img_745.png,C Fe,Etched with 4% picral,20.0
+img_746.png,C Fe,Etched with 4% picral,50.0
+img_747.png,C Fe,Etched with 4% picral,10.0
+img_748.png,C Fe,Etched with 4% picral,1.0
+img_749.png,C Cr Fe Mn,"Heat treated, etched with 4% picral + 2% nital",50.0
+img_750.png,C Cr Fe Mn,Observed in transmission electron microscope,5.0
+img_751.png,C Cr Fe Mn,Observed in transmission electron microscope,4.0
+img_752.png,C Cr Fe Mn,Examined in transmission electron microscope,4.0
+img_753.png,C Fe,Etched with 10% sodium metabisulfite tint etch,10.0
+img_754.png,C Fe,"Water quenched, etched with 2% nital",50.0
+img_755.png,C Fe,"Water quenched, etched with 10% sodium metabisulfite",10.0
+img_756.png,C Fe,Etched with 2% nital,10.0
+img_757.png,C Fe,Tempered plate martensite etched with 4% picral + 2% nital,10.0
+img_758.png,C Fe,Etched with 4% picral,100.0
+img_759.png,C Fe,Etched with 4% picral,100.0
+img_760.png,C Fe,"Mounted, polished, and etched with 2% nital",100.0
+img_761.png,C Fe,Etched with 2% nital,50.0
+img_762.png,C Fe,Quenched and etched with 2% nital,50.0
+img_763.png,C Fe,Quenched and etched with 2% nital,10.0
+img_764.png,C Fe,Quenched and etched with 2% nital,10.0
+img_765.png,C Fe,Etched with Marshall's reagent,10.0
+img_766.png,C Fe,Etched with modified Marshall's reagent (with hydrofluoric acid),50.0
+img_767.png,C Fe,"Quenched and tempered, etched with Marshall's reagent",50.0
+img_768.png,C Fe,Etched with 4% picral,20.0
+img_769.png,C Fe,"Quenched, etched with Winsteard's reagent",50.0
+img_770.png,C Fe,"Quenched and tempered, etched with modified Winsteard's reagent",10.0
+img_771.png,C Fe,"Quenched and tempered, etched with hot saturated aqueous picric acid",10.0
+img_772.png,C Fe,"Quenched and tempered, etched with modified hot saturated aqueous picric acid",50.0
+img_773.png,C Fe Mn Nb,"As-rolled, etched with 4% picral + 2% nital",50.0
+img_774.png,C Fe,"Quenched, etched with 4% picral + 2% nital",10.0
+img_775.png,C Cr Fe Mo Ni,"Quenched and tempered, etched with 4% picral + 2% nital",50.0
+img_776.png,C Fe Mn,Tint etched with 10% sodium metabisulfite,10.0
+img_777.png,C Fe,"Unetched (as-polished), observed in differential interference contrast",50.0
+img_778.png,C Fe,"Unetched (as-polished), observed in differential interference contrast",20.0
+img_779.png,C Fe,"Quenched and tempered, etched with hot saturated aqueous picric acid",50.0
+img_780.png,C Fe Mo Ni,"Gas carburized 8 h at 940Â°C, oil quenched, tempered 1 h at 180Â°C, retempered 2 h at 260Â°C, nital etch",10.0
+img_781.png,C Fe Mo Ni,"Gas carburized 8 h at 940Â°C, oil quenched, tempered 1 h at 180Â°C, retempered 2 h at 230Â°C, nital etch",10.0
+img_782.png,C Fe Mo Ni,"Gas carburized 4 h at 940Â°C, oil quenched, tempered 1 h at 180Â°C, nital etch",10.0
+img_783.png,C Fe Mo Ni,"Gas carburized 4 h at 955Â°C, austenitized 30 min at 820Â°C, oil quenched, nital etch",10.0
+img_784.png,C Cr Fe Mo Ni,"Pack carburized 16 h at 940Â°C, cooled in pot, nital etch",10.0
+img_785.png,C Cr Fe Mo Ni,"Pack carburized 16 h at 940Â°C, tempered 13 h at 595Â°C, air cooled, reheated to 795Â°C, oil quenched, tempered 1 h at 180Â°C, nital etch",10.0
+img_786.png,C Cr Fe Mn Mo,"Gas carburized 8 h at 925 Â°C, oil quenched, reheated to 845 Â°C for 15 min, oil quenched, and tempered 1 h at 170 Â°C",20.0
+img_787.png,C Cr Fe Mn Mo,"Gas carburized 8 h at 925 Â°C, oil quenched, reheated to 845 Â°C for 15 min, oil quenched, and tempered 1 h at 170 Â°C",100.0
+img_788.png,C Cr Fe Mo Ni,Normalized by austenitizing 2 h at 885 Â°C and cooled slowly in furnace,20.0
+img_789.png,C Cr Fe Mo Ni,Normalized by austenitizing 2 h at 885 Â°C and cooled in still air,50.0
+img_790.png,Cr Fe Mn Mo Ni,Plasma carburized and subjected to bending fatigue,20.0
+img_791.png,C Cr Fe Mo Ni,Gas carburized and subjected to bending fatigue,10.0
+img_792.png,C Fe,Carbonitrided at high carbon potential and oil quenched,20.0
+img_793.png,C Fe,Carbonitrided at 790 Â°C and oil quenched,50.0
+img_794.png,C Cr Fe Mo Ni,"Carbonitrided 4 h at 845 Â°C in 8% ammonia + 8% propane atmosphere, oil quenched, tempered 1.5 h at 150 Â°C",50.0
+img_795.png,C Cr Fe Mo Ni,"Carbonitrided as in previous, held 2 h at -75 Â°C before tempering to transform retained austenite",50.0
+img_796.png,C Cr Fe Mo,Ion nitrided surface of quenched and tempered steel,20.0
+img_797.png,C Cr Fe Mo V,Tempered to 35 HRC and ion nitrided 36 h at 525 Â°C,20.0
+img_798.png,C Cr Fe Mo,"Quenched and tempered to 30 HRC, then ion nitrided 24 h at 510 Â°C",20.0
+img_799.png,Fe Ni,"Solution treated 1 h at 815 Â°C, surface activated, and gas nitrided 24 h at 440 Â°C",10.0
+img_800.png,Fe Ni,"Solution treated 1 h at 815 Â°C, surface activated, and gas nitrided 24 h at 440 Â°C",10.0
+img_801.png,Fe Ni,"Solution treated 1 h at 815 Â°C, surface activated, and gas nitrided 24 h at 440 Â°C",20.0
+img_802.png,C Fe,Spheroidize annealed and etched with 4% picral to outline only cementite,20.0
+img_803.png,C Fe,Spheroidize annealed and etched with 2% nital to reveal ferrite grain boundaries and cementite,20.0
+img_804.png,C Fe,"Spheroidize annealed, etched lightly with 4% picral, and tint-etched with Klemm's I reagent",20.0
+img_805.png,C Fe,Spheroidize annealed and etched with boiling alkaline sodium picrate for 60 s,20.0
+img_806.png,C Fe,"Spheroidize annealed, lightly etched with 4% picral, and tint-etched with Beraha's Na2S2O3/K2S2O5 reagent",20.0
+img_807.png,C Fe,"Spheroidize annealed, lightly etched with 4% picral, and tint-etched with Beraha's Na2MoO4 reagent",20.0
+img_808.png,C Cr Fe Mo V,"Austenitized at 1040 Â°C, air quenched, and tempered at 200 Â°C; etched with 10% nital",15.0
+img_809.png,C Cr Fe Mo V,"Austenitized at 1040 Â°C, air quenched, and tempered at 200 Â°C; etched with 4% picral plus HCl",15.0
+img_810.png,C Cr Fe Mo V,"Austenitized at 1040 Â°C, air quenched, and tempered at 200 Â°C; heat tinted at 540 Â°C for 5 min after 10% nital etch",15.0
+img_811.png,C Cr Fe Mo V,"Austenitized at 1040 Â°C, air quenched, and tempered at 200 Â°C; etched with superpicral reagent",15.0
+img_812.png,C Fe,Overaustenitized at 925 Â°C and water quenched; etched with 2% nital,30.0
+img_813.png,C Fe,Overaustenitized at 925 Â°C and water quenched; etched with 4% picral,30.0
+img_814.png,C Fe,Overaustenitized at 925 Â°C and water quenched; etched with 5% aqueous sodium metabisulfite,30.0
+img_815.png,C Fe,Overaustenitized at 925 Â°C and water quenched; etched with Beraha's Na2S2O3/K2S2O5 reagent,30.0
+img_816.png,C Fe,Spheroidize annealed; etched with 4% picral to outline only cementite.,20.0
+img_817.png,C Fe,Spheroidize annealed; etched with 2% nital to reveal ferrite grain boundaries and cementite.,20.0
+img_818.png,C Fe,"Spheroidize annealed; lightly etched with 4% picral, then tint-etched with Klemm's I reagent.",20.0
+img_819.png,C Fe,Spheroidize annealed; etched with boiling alkaline sodium picrate for 60 s.,20.0
+img_820.png,C Fe,"Spheroidize annealed; lightly etched with 4% picral, then tint-etched with Beraha's NaâSâOâ/KâSâOâ reagent.",20.0
+img_821.png,C Fe,"Spheroidize annealed; lightly etched with 4% picral, then tint-etched with Beraha's NaâMoOâ reagent.",20.0
+img_822.png,C Cr Fe Mo V,"Austenitized at 1040 Â°C, air quenched, tempered at 200 Â°C; etched with 10% nital.",15.0
+img_823.png,C Cr Fe Mo V,"Austenitized at 1040 Â°C, air quenched, tempered at 200 Â°C; etched with 4% picral plus HCl.",15.0
+img_824.png,C Cr Fe Mo V,"Austenitized at 1040 Â°C, air quenched, tempered at 200 Â°C; heat tinted at 540 Â°C for 5 min after 10% nital etch.",15.0
+img_825.png,C Cr Fe Mo V,"Austenitized at 1040 Â°C, air quenched, tempered at 200 Â°C; etched with superpicral.",15.0
+img_826.png,C Fe,Overaustenitized at 925 Â°C and water quenched; etched with 2% nital.,30.0
+img_827.png,C Fe,Overaustenitized at 925 Â°C and water quenched; etched with 4% picral.,30.0
+img_828.png,C Fe,Overaustenitized at 925 Â°C and water quenched; etched with 5% aqueous sodium metabisulfite.,30.0
+img_829.png,C Fe,Overaustenitized at 925 Â°C and water quenched; etched with Beraha's NaâSâOâ/KâSâOâ reagent.,30.0
+img_830.png,C Fe,As-rolled and spheroidized under varying conditions,40.0
+img_831.png,C Cr Fe Mn Ni,Mill annealed (as-received),20.0
+img_832.png,C Cr Fe Mn,Full annealed (as-received),20.0
+img_833.png,C Fe Mn,Mill annealed (as-received),20.0
+img_834.png,C Fe Ni,Spheroidize annealed,40.0
+img_835.png,C Fe Mn Mo Si,Spheroidize annealed,20.0
+img_836.png,C Fe Mn Si,Spheroidize annealed,40.0
+img_837.png,C Cr Fe Mn Mo Si,Spheroidize annealed,20.0
+img_838.png,C Cr Fe Mn Mo,Spheroidize annealed,20.0
+img_839.png,C Cr Fe Mn Mo,Partially spheroidized (lamellar pearlite visible),20.0
+img_840.png,C Cr Fe Mn Mo,Partially spheroidized (lamellar pearlite visible),20.0
+img_841.png,C Cr Fe Mo Si V,Spheroidize annealed,20.0
+img_842.png,C Cr Fe,Spheroidize annealed,20.0
+img_843.png,C Cr Fe Mn W,Spheroidize annealed,20.0
+img_844.png,C Fe Mo Ni,Spheroidize annealed,20.0
+img_845.png,C Fe Mo,Spheroidize annealed,20.0
+img_846.png,C Fe,"Box annealed at 900 Â°C (1650 Â°F) for 1 h per 25 mm of container thickness, cooled â¤28 Â°C/h (50 Â°F/h)",20.0
+img_847.png,C Fe,"As-received (mill annealed), transverse to rolling direction",200.0
+img_848.png,C Cr Fe,"Annealed by austenitizing at 870 Â°C (1600 Â°F) for 2 h, cooled at 28 Â°C/h (50 Â°F/h) to 540 Â°C (1000 Â°F), then air cooled",40.0
+img_849.png,C Cr Fe,"Annealed by austenitizing at 900 Â°C (1650 Â°F), cooled at 8.5 Â°C/h (15 Â°F/h) to 650 Â°C (1200 Â°F), then air cooled",40.0
+img_850.png,C Fe,"Spheroidize annealed, transverse section",40.0
+img_851.png,C Fe,"Spheroidize annealed, longitudinal section",40.0
+img_852.png,C Fe,"Poorly carburized; polished using synthetic chemical-textile pad (3 steps, 10 min on step 3)",50.0
+img_853.png,C Fe,Austenitized at 800 Â°C (1475 Â°F) for 1 h per 25 mm thickness,40.0
+img_854.png,C Fe,Austenitized at 870 Â°C (1600 Â°F),40.0
+img_855.png,C Fe,Austenitized at 980 Â°C (1800 Â°F),40.0
+img_856.png,C Fe,Austenitized at 1100 Â°C (2010 Â°F),40.0
+img_857.png,C Cr Fe,Air quenched from 1010 Â°C (1850 Â°F),10.0
+img_858.png,C Cr Fe,Air quenched from 1065 Â°C (1950 Â°F),10.0
+img_859.png,C Cr Fe,Air quenched from 1120 Â°C (2050 Â°F),10.0
+img_860.png,C Cr Fe,Air quenched from 1175 Â°C (2150 Â°F),10.0
+img_861.png,C Cr Fe,Air quenched from 1230 Â°C (2250 Â°F),10.0
+img_862.png,C Fe,Brine quenched; hardened case microstructure (64 HRC),10.0
+img_863.png,C Fe,Brine quenched; hardened case microstructure,10.0
+img_864.png,C Fe,Brine quenched; transition zone (55 HRC),10.0
+img_865.png,C Fe,Brine quenched; core microstructure (42â44 HRC),10.0
+img_866.png,C Fe,"Heated to 845 Â°C (1550 Â°F), water quenched, and tempered at 150 Â°C (300 Â°F)",10.0
+img_867.png,C Fe Mo Ni,"Heated to 840 Â°C (1550 Â°F), oil quenched, and tempered at 150 Â°C (300 Â°F)",20.0
+img_868.png,C Fe Mn,"Heated to 850 Â°C (1560 Â°F), oil quenched, and tempered at 175 Â°C (350 Â°F)",20.0
+img_869.png,C Fe,"Heated to 955 Â°C (1750 Â°F), oil quenched, and tempered at 150 Â°C (300 Â°F)",40.0
+img_870.png,C Fe,"Heated to 955 Â°C (1750 Â°F), oil quenched, and tempered at 150 Â°C (300 Â°F)",40.0
+img_871.png,C Fe,"Heated to 870 Â°C (1600 Â°F), oil quenched, and tempered at 175 Â°C (350 Â°F)",20.0
+img_872.png,C Fe Mn S,"Heated to 900 Â°C (1650 Â°F), water quenched, and tempered at 525 Â°C (975 Â°F)",40.0
+img_873.png,C Fe,"Heated to 940 Â°C (1725 Â°F), air quenched, and tempered at 200 Â°C (400 Â°F)",20.0
+img_874.png,C Fe,"Heated to 940 Â°C (1725 Â°F), air quenched, and tempered at 495 Â°C (925 Â°F)",20.0
+img_875.png,C Fe,"Heated to 840 Â°C (1550 Â°F), air quenched, and tempered at 150 Â°C (300 Â°F)",20.0
+img_876.png,C Fe,"Heated to 1010 Â°C (1850 Â°F), air quenched, and double tempered at 510 Â°C (950 Â°F)",20.0
+img_877.png,C Fe,"Heated to 1025 Â°C (1875 Â°F), air quenched, and double tempered at 595 Â°C (1100 Â°F)",20.0
+img_878.png,C Fe,"Heated to 1200 Â°C (2200 Â°F), oil quenched, and tempered at 595 Â°C (1100 Â°F)",20.0
+img_879.png,C Fe,"Heated to 1010 Â°C (1850 Â°F), air quenched, and tempered at 200 Â°C (400 Â°F)",20.0
+img_880.png,C Fe,"Heated to 980 Â°C (1800 Â°F), oil quenched, and tempered at 200 Â°C (400 Â°F)",20.0
+img_881.png,C Fe Mo W,"Heated to 1175 Â°C (2150 Â°F), oil quenched, and triple tempered at 480 Â°C (900 Â°F)",10.0
+img_882.png,C Fe Mo V W,"Heated to 1120 Â°C (2050 Â°F), oil quenched, and double tempered at 480 Â°C (900 Â°F)",10.0
+img_883.png,C Fe Mo V W,"Heated to 1220 Â°C (2225 Â°F), oil quenched, and double tempered at 480 Â°C (900 Â°F)",10.0
+img_884.png,C Co Fe Mo V W,"Heated to 1175 Â°C (2150 Â°F), oil quenched, and triple tempered at 565 Â°C (1050 Â°F)",10.0
+img_885.png,C Fe,"Austenitized at 800 Â°C, oil quenched, and tempered at 200 Â°C (400 Â°F)",20.0
+img_886.png,C Fe,"Austenitized at 800 Â°C, oil quenched, and tempered at 315 Â°C (600 Â°F)",20.0
+img_887.png,C Fe,"Austenitized at 800 Â°C, oil quenched, and tempered at 425 Â°C (800 Â°F)",20.0
+img_888.png,C Fe,"Austenitized at 800 Â°C, oil quenched, and tempered at 540 Â°C (1000 Â°F)",20.0
+img_889.png,C Fe,Austenitized at 940 Â°C and cooled at 2780 Â°C/h (5000 Â°F/h),40.0
+img_890.png,C Fe,Austenitized at 940 Â°C and cooled at 1390 Â°C/h (2500 Â°F/h),40.0
+img_891.png,C Fe,Austenitized at 940 Â°C and cooled at 830 Â°C/h (1500 Â°F/h),40.0
+img_892.png,C Fe,Austenitized at 940 Â°C and cooled at 445 Â°C/h (800 Â°F/h),40.0
+img_893.png,C Fe,Austenitized at 940 Â°C and cooled at 220 Â°C/h (400 Â°F/h),40.0
+img_894.png,C Fe,"Austenitized at 940 Â°C, cooled at 28 Â°C/h (50 Â°F/h) to 620 Â°C, then water quenched",40.0
+img_895.png,C Fe,Held at 704 Â°C (1300 Â°F) for 30 min before quenching,20.0
+img_896.png,C Fe,Held at 704 Â°C (1300 Â°F) for 4 h before quenching,20.0
+img_897.png,C Fe,Austenitized and isothermally transformed at 650 Â°C (1200 Â°F) for 4 h (air cooled),10.0
+img_898.png,C Fe,"Austenitized, isothermally transformed at 595 Â°C (1100 Â°F) for 8 h (air cooled)",10.0
+img_899.png,C Fe,"Austenitized, isothermally transformed at 540 Â°C (1000 Â°F) for 8 h, water quenched",10.0
+img_900.png,C Fe,"Austenitized, isothermally transformed at 400 Â°C (750 Â°F) for 1 h, and air cooled",10.0
+img_901.png,C Fe W,Powder-made; slow cooled after hot isostatic pressing,10.0
+img_902.png,C Fe W,"Powder-made; hot isostatically pressed, forged, and annealed",10.0
+img_903.png,C Fe W,"Powder-made; heated to 1230 Â°C (2250 Â°F) for 5 min in salt, oil quenched, triple tempered 2 h each at 540 Â°C (1000 Â°F)",10.0
+img_904.png,C Fe W,"Same as hardened T15 but etched in 100 mL H2O, 1 mL HCl, 1 g K2S2O5, and 1 g NH4Â·HF",10.0
+img_905.png,Cr Fe Mo,Annealed; microstructure revealed using acetic glyceregia and aqueous 60% HNO3 at 1.2 V dc for 120 s,100.0
+img_906.png,Cr Fe Mo,Annealed sample continued from previous; alternate etching conditions,100.0
+img_907.png,Cr Fe Ni,"Solution-annealed and sensitized (1038 Â°C for 1 h, water quenched, aged at 650 Â°C for 2 h, air cooled)",100.0
+img_908.png,Cr Fe Mo Ni,Solution-annealed and sensitized,100.0
+img_909.png,Cr Fe Mo Ni,"Solution-annealed (954 Â°C, water quenched)",25.0
+img_910.png,Cr Fe Mo Ni,Solution-annealed,100.0
+img_911.png,Cr Fe Mo Ni,Solution-annealed,100.0
+img_912.png,Cr Fe Mo Ni,Solution-annealed,100.0
+img_913.png,Cr Fe Mo Ni,Solution-annealed,100.0
+img_914.png,Cr Fe Mo Ni,Solution-annealed,100.0
+img_915.png,Cr Fe Ni,Aged at 816 Â°C for 160 h,10.0
+img_916.png,Cr Fe Ni,Aged at 816 Â°C for 160 h,20.0
+img_917.png,Cr Fe Mo Ni,Sensitized,10.0
+img_918.png,Cr Fe Mo Ni,Sensitized,10.0
+img_919.png,Cr Cu Fe Ni,Solution-annealed and aged,20.0
+img_920.png,Cr Cu Fe Ni,Solution-annealed and aged,20.0
+img_921.png,Cr Cu Fe Ni,Solution-annealed and aged,10.0
+img_922.png,Cr Cu Fe Ni,Solution-annealed and aged,20.0
+img_923.png,Cr Cu Fe Ni,Solution-annealed and aged,10.0
+img_924.png,Cr Fe Mo Ni,-,25.0
+img_925.png,Cr Fe Mo Ni,-,25.0
+img_926.png,Cr Fe Mo Ni,Plate,25.0
+img_927.png,Cr Fe Mo Ni,Plate,25.0
+img_928.png,Cr Fe Mo Ni,Plate,25.0
+img_929.png,Cr Fe Mo Ni,Plate,25.0
+img_930.png,Cr Fe Mo Ni,Plate,25.0
+img_931.png,Cr Fe Mo Ni,Plate,25.0
+img_932.png,Cr Fe Mn Ni,-,20.0
+img_933.png,Cr Fe Ni,-,20.0
+img_934.png,Cr Fe Mo Ni,-,10.0
+img_935.png,Cr Fe Ni,-,50.0
+img_936.png,Cr Fe Mo Ni,As-cast condition,50.0
+img_937.png,Cr Fe Mo Ni,After solution annealing,50.0
+img_938.png,Cr Fe Ni,As-cast microstructure,200.0
+img_939.png,Cr Fe Ni,As-cast microstructure,100.0
+img_940.png,Cr Fe Mo Ni,As-cast microstructure,100.0
+img_941.png,Cr Fe Mo Ni,As-cast microstructure,20.0
+img_942.png,Cr Fe Ni,Cold worked,50.0
+img_943.png,Cr Fe Mo Ni,Cold worked,20.0
+img_944.png,Cr Fe Nb Ni,"Cold-drawn, reduced 5% in diameter",100.0
+img_945.png,Cr Fe Nb Ni,"Cold-drawn, reduced 10% in diameter",100.0
+img_946.png,Cr Fe Nb Ni,"Cold-drawn, reduced 15% in diameter",100.0
+img_947.png,Cr Fe Nb Ni,"Cold-drawn, reduced 30% in diameter",100.0
+img_948.png,Cr Fe Mn Mo Ni,-,100.0
+img_949.png,Cr Fe Ni,Necklace-type condition,100.0
+img_950.png,Cr Fe Mo Ni,-,100.0
+img_951.png,Cr Fe Ni,-,100.0
+img_952.png,Cr Fe Ni,Sensitized,25.0
+img_953.png,Cr Fe Ni,Sensitized,100.0
+img_954.png,Cr Fe Mo Ni,Sensitized,100.0
+img_955.png,Cr Fe Mn Ni,Resulfurized stainless steel,100.0
+img_956.png,Cr Fe Mn Ni,Resulfurized stainless steel,100.0
+img_957.png,Cr Fe Ni S,Resulfurized stainless steel,100.0
+img_958.png,Cr Fe Ni S,Resulfurized stainless steel,20.0
+img_959.png,B Cr Fe Ni,For nuclear reactor use (Nautilus-class submarines),10.0
+img_960.png,B Cr Fe Ni,For nuclear reactor use (Nautilus-class submarines),10.0
+img_961.png,B Cr Fe Ni,For nuclear waste containment,10.0
+img_962.png,B Cr Fe Ni,For nuclear waste containment,10.0
+img_963.png,Cr Fe S,-,50.0
+img_964.png,Cr Fe Ni,Ferritic,25.0
+img_965.png,Cr Fe Ni,Ferritic,25.0
+img_966.png,Cr Fe,Etched with modified Fry's reagent,10.0
+img_967.png,Cr Fe,Etched with Ralph's reagent,25.0
+img_968.png,Cr Fe,Annealed and etched with Ralph's reagent,10.0
+img_969.png,Cr Fe,Annealed and tint etched with Beraha's sulfamic acid etch (No. 4),20.0
+img_970.png,Cr Fe,Etched with Vilella's reagent,10.0
+img_971.png,Cr Fe,Etched with modified Fry's reagent,10.0
+img_972.png,Cr Fe,Austenitized at 1150 Â°C (2100 Â°F) and etched with Beraha's sulfamic acid No. 4 tint etch,10.0
+img_973.png,Cr Fe,Austenitized at 1204 Â°C (2200 Â°F) and etched with Beraha's sulfamic acid No. 4 tint etch,10.0
+img_974.png,Cr Fe,Austenitized at 1260 Â°C (2300 Â°F) and etched with Beraha's sulfamic acid No. 4 tint etch,50.0
+img_975.png,Cr Fe,"Etched with Vilella's reagent, as-heat-treated condition",100.0
+img_976.png,Cr Fe,Etched with Vilella's reagent after 100000 h at 350 Â°C (660 Â°F),100.0
+img_977.png,Cr Fe,Etched with Vilella's reagent after 100000 h at 500 Â°C (930 Â°F),100.0
+img_978.png,Cr Fe Mo Ni,As-cast and etched with Ralph's reagent,100.0
+img_979.png,Cr Fe Mo Ni,As-cast and etched with Ralph's reagent,10.0
+img_980.png,Cr Fe Mo Ni,As-cast and etched with 15 HCl-10 acetic acid-10 HNO3,100.0
+img_981.png,Cr Fe Mo Ni,Etched with 15 HCl-10 acetic acid-10 HNO3 and viewed with Nomarski differential interference contrast,100.0
+img_982.png,Cr Cu Fe Mo Ni,As-cast and etched with waterless Kalling's reagent,200.0
+img_983.png,Cr Cu Fe Mo Ni,As-cast and etched with waterless Kalling's reagent,100.0
+img_984.png,Cr Fe,As-cast and etched with Vilella's reagent,20.0
+img_985.png,Cr Fe,As-cast and revealed using Ralph's reagent,100.0
+img_986.png,Cr Fe,As-cast and revealed using Ralph's reagent,20.0
+img_987.png,Cr Fe Mo Ni,Etched with waterless Kalling's reagent (light etch),10.0
+img_988.png,Cr Fe Mo Ni,Etched with waterless Kalling's reagent (heavier etch),10.0
+img_989.png,Cr Fe Mo Ni,Etched with modified Fry's reagent on transverse plane,10.0
+img_990.png,Cr Fe Mo Ni,Etched with modified Fry's reagent on longitudinal plane,20.0
+img_991.png,Cr Fe Mo Ni,Etched with modified Fry's reagent on transverse plane (alternate field),10.0
+img_992.png,Cr Fe Mo Ni,Etched with modified Fry's reagent on longitudinal plane (alternate field),20.0
+img_993.png,Cr Fe Mo Ni,As-hot-worked and etched with glyceregia,25.0
+img_994.png,Cr Fe Mo Ni,As-hot-worked and etched with glyceregia,25.0
+img_995.png,Cr Cu Fe Ni,"Revealed using Murakami's reagent (2 min at 100 Â°C, or 210 Â°F) on transverse plane near billet surface",100.0
+img_996.png,Cr Cu Fe Ni,"Solution annealed and aged (H925 temper), etched with modified Fry's reagent",25.0
+img_997.png,Cr Cu Fe Ni,"Solution annealed and aged (H900 temper), etched with Vilella's reagent",100.0
+img_998.png,Cr Fe Mo Ni,Etched with modified Fry's reagent,20.0
+img_999.png,Cr Cu Fe Ni,"Solution annealed and aged (H1050 temper), etched with modified Fry's reagent",10.0
+img_1000.png,Cr Cu Fe Ni,"Solution annealed and aged (H1150 temper), etched with waterless Kalling's reagent",10.0
+img_1001.png,Cr Fe Mo N Ni,Etched with aqueous 20% NaOH at 3 V dc for 15 s to color ferrite; solution annealed at 1200 Â°C (2190 Â°F),50.0
+img_1002.png,Cr Fe Mo N Ni,Etched with aqueous 20% NaOH at 3 V dc for 15 s; after 2 h at 800 Â°C (1470 Â°F) producing Ï phase (dark spots),20.0
+img_1003.png,Cr Fe Mo N Ni,Etched with aqueous 20% NaOH at 3 V dc for 15 s; after 8 h at 800 Â°C (1470 Â°F),20.0
+img_1004.png,Cr Cu Fe Mo Ni,Etched with aqueous 20% NaOH at 3 V dc for 3 s,20.0
+img_1005.png,,Solution-annealed condition (305 HV). Revealed using modified Fry's reagent,50.0
+img_1006.png,,Solution-annealed and aged condition (523 HV). Revealed using modified Fry's reagent,10.0
+img_1007.png,,Solution-annealed condition (319 HV). Revealed using modified Fry's reagent,50.0
+img_1008.png,,Solution-annealed and aged condition (565 HV). Revealed using modified Fry's reagent,10.0
+img_1009.png,,Solution-annealed and aged (596 HV). Etched with modified Fry's reagent,10.0
+img_1010.png,,Solution-annealed and aged (535 HV). Etched with modified Fry's reagent,50.0
+img_1011.png,,As-cast. 4% picral etch,100.0
+img_1012.png,,Secondary electron image by electron microprobe,
+img_1013.png,,P-map of same area as previous image,
+img_1014.png,,"Solution annealed at 1060 Â°C, stepped down to 950 Â°C and water quenched. Etched with dilute aqua regia",10.0
+img_1015.png,,"Solution annealed at 1060 Â°C, stepped down to 950 Â°C and water quenched. Etched with dilute aqua regia",20.0
+img_1016.png,,"Cast, heat treated at 1095 Â°C for 2 h, and water quenched. Cyclic etch",100.0
+img_1017.png,,Solution annealed at 1140 Â°C and water quenched. Same etch as Fig. 6(a),30.0
+img_1018.png,,As-cast. Same etch as Fig. 6(a),100.0
+img_1019.png,,"Cast, heat treated at 1090 Â°C and water quenched. Same etch as Fig. 6(a)",20.0
+img_1020.png,,"Pearlitized at 595 Â°C for 12 h, air cooled, partially solutionized at 980 Â°C for 2 h and water quenched. 4% picral etch",20.0
+img_1021.png,,"Same as previous, continued view of microstructure. 4% picral etch",20.0
+img_1022.png,,As-cast. Etched with boiling alkaline sodium picrate,100.0
+img_1023.png,,Heat treated at 1120 Â°C for 3 h and water quenched. Same etch as Fig. 18,100.0
+img_1024.png,Al Si,As-cast unmodified alloy. Etched with 0.5% hydrofluoric acid,100.0
+img_1025.png,Al Si,Modified alloy with 0.025% Na addition. Etched with 0.5% hydrofluoric acid,100.0
+img_1026.png,Be Co Cu,"Solution annealed at 900 Â°C, quenched, aged at 480 Â°C for 3 h. Etchant 6 (Table 3)",50.0
+img_1027.png,Be Co Cu,"Solution annealed at 980 Â°C for 3 h, aged at 480 Â°C for 3 h. Etchant 6 (Table 3)",100.0
+img_1028.png,Be Cu,"Cast, homogenized, and hot worked. Etchant 1 (Table 3)",25.0
+img_1029.png,Be Cu,As-cast. Etchant 6 (Table 3),50.0
+img_1030.png,Be Cu,Solution annealed at 790 Â°C and aged at 315 Â°C for 3 h. Etchant 1 (Table 3),50.0
+img_1031.png,Be Cu,Heated to 885 Â°C and water quenched. Etchant 1 (Table 3),25.0
+img_1032.png,Be,Vacuum hot-pressed block consolidated from impact-ground powder. As-polished,100.0
+img_1033.png,Be,Vacuum hot-pressed block consolidated from ball-milled powder. As-polished,100.0
+img_1034.png,Co Cr Ta W,As-cast. Etched with Kalling's reagent,50.0
+img_1035.png,Co Cr Ta W,As-cast. Etched with Kalling's reagent,10.0
+img_1036.png,Cu O,As-cast hypoeutectic alloy; oxygen content 0.024%,100.0
+img_1037.png,Cu O,As-cast hypoeutectic alloy; oxygen content 0.09%,100.0
+img_1038.png,Cu O,As-cast hypoeutectic alloy; oxygen content 0.18%,100.0
+img_1039.png,Cu O,As-cast hypoeutectic alloy; oxygen content 0.23%,100.0
+img_1040.png,Cu O,As-cast hypereutectic alloy; oxygen content 0.44%,100.0
+img_1041.png,Cu O,As-cast hypereutectic alloy; oxygen content 0.50%,100.0
+img_1042.png,Cu O,As-cast hypereutectic alloy; oxygen content 0.70%,100.0
+img_1043.png,Cu O,As-cast hypereutectic alloy; oxygen content 0.91%,100.0
+img_1044.png,,Annealed to increase formability,20.0
+img_1045.png,,Annealed to increase formability,20.0
+img_1046.png,,"High-pressure die cast; etched with glycol etchant (etchant 2, Table 7)",10.0
+img_1047.png,,"High-pressure die cast; etched with glycol etchant (etchant 2, Table 7)",10.0
+img_1048.png,,High-pressure die cast; etched with glycol and viewed under polarized light plus sensitive tint filter,10.0
+img_1049.png,Mg,As-polished condition viewed in cross polarized light using a microscope with a Foster prism and sensitive tint plate,200.0
+img_1050.png,,Brightfield TEM image showing primary magnesium with aluminum in solid solution surrounded by a grain-boundary eutectic phase,2.0
+img_1051.png,,"Solution annealed for 30 min at 980 Â°C and water quenched, aged for 20 h at 480 Â°C and water quenched",200.0
+img_1052.png,R,Cold drawn and annealed in a continuous process at 830 Â°C,100.0
+img_1053.png,,"As-rolled condition etched using 15 mL HCl, 10 mL acetic acid, and 10 mL HNO3",100.0
+img_1054.png,,As-cast condition,100.0
+img_1055.png,,"Heat treated at 1200 Â°C for 3 days, furnace cooled, etched in aqua regia",
+img_1056.png,Nb,Rolled and annealed; chemically polished (solution A) for ~90 s and etched (solution B) for ~30 s,80.0
+img_1057.png,C Nb,Cold worked and annealed,100.0
+img_1058.png,Ta W,Chemically polished (solution A) for ~90 s and swab etched (solution B) for ~30 s,400.0
+img_1059.png,Ta W,Chemically polished (solution A) for ~90 s and swab etched (solution B) for ~90 s,400.0
+img_1060.png,Mo,"Warm worked from 38 mm to 16 mm diameter, hydrogen annealed 30 min at 1600 Â°C",100.0
+img_1061.png,Sn,Etched with reagent 7 (Table 1),50.0
+img_1062.png,Ti,"Finish forged starting at 970 Â°C, air cooled, machined to 13 mm diameter, reheated to 995 Â°C (beta transus), held for 1 h, and air cooled",100.0
+img_1063.png,U,Cooled from 800 Â°C at less than 1 Â°C/s,20.0
+img_1064.png,U,As-cast condition,20.0
+img_1065.png,U,Cooled from 800 Â°C at 4 Â°C/s (intermediate rate),100.0
+img_1066.png,U,Electropolished with 5% H3PO4 and electroetched using procedure 2 in Table 5,20.0
+img_1067.png,,Unetched microstructure in as-received condition,200.0
+img_1068.png,,Electrolytically etched with (NH4)S2O8 and H2O solution for ~1 min at 3â5 V,500.0
+img_1069.png,,"Annealed and cold-worked, electrolytically etched with (NH4)S2O8 and H2O solution for ~1 min at 3â5 V",100.0
+img_1070.png,Co Cr Mo,"As-cast, electrolytically etched with (NH4)S2O8 and H2O at 3â5 V for 5â10 s",100.0
+img_1071.png,Co Cr Mo,"Hot isostatically pressed and solution annealed, electrolytically etched with (NH4)S2O8 and H2O at 3â5 V for 5â10 s",100.0
+img_1072.png,Co Cr Mo,Etched with hydrochloric acid and peroxide solution,100.0
+img_1073.png,Co Cr Mo,"Wrought and forged, etched with hydrochloric acid and peroxide solution",70.0
+img_1074.png,Co Cr Mo,Same as previous sample for comparison,70.0
+img_1075.png,,Forged and annealed,100.0
+img_1076.png,,As-cast,100.0
+img_1077.png,,Cast and annealed,100.0
+img_1078.png,,Etched,500.0
+img_1079.png,,Wrought wire,100.0
+img_1080.png,Fe,"Cold-rolled strip, annealed 2 h in dry H2 at 925 Â°C (1700 Â°F) and furnace cooled",100.0
+img_1081.png,C Fe,As-sintered,20.0
+img_1082.png,C Fe,Quench-hardened and tempered,20.0
+img_1083.png,Cu Fe,As-sintered,20.0
+img_1084.png,Cu Fe,Quench-hardened and tempered,20.0
+img_1085.png,,As-sintered,20.0
+img_1086.png,,Quench-hardened and tempered,20.0
+img_1087.png,,Liquid-phase sintering,100.0
+img_1088.png,Al Mg Si,As-formed,200.0
+img_1089.png,Al Mg Si,Reheated,200.0
+img_1090.png,Al Cu Si,As-formed from electromagnetically stirred billet,300.0
+img_1091.png,Al Cu Si,As-formed from grain refined billet,300.0
+img_1092.png,Al Mg Si,Semisolid metalworking,200.0
+img_1093.png,Al Mg Si,"As-formed, overheated billet",200.0
+img_1094.png,Al Mg Zn,Produced without stirring,300.0
+img_1095.png,Al Mg Zn,Electromagnetically stirred casting,300.0
+img_1096.png,Al Mg Zn,Indirect semisolid metalworking,300.0
+img_1097.png,W,As-coated,25.0
+img_1098.png,C Fe,"Submerged arc weld, as-polished",50.0
+img_1099.png,Al Ti V,"Gas tungsten arc weld, autogenous two-pass",100.0
+img_1100.png,C Cr Fe Mo Ni,Submerged arc weld,200.0
+img_1101.png,Al Cu,Gas metal arc weld,50.0
+img_1102.png,C Fe,"Submerged arc single-V butt weld, last pass (12th)",20.0
+img_1103.png,C Fe,Submerged arc bead-on-plate weld,20.0

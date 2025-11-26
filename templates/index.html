@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microstructure Predictor</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; background-color: #f4f4f4; }
+        h1 { text-align: center; color: #333; }
+        .form-group { margin-bottom: 20px; }
+        label { display: block; margin-bottom: 8px; font-weight: bold; color: #555; }
+        input[type="text"], button { width: 100%; padding: 12px; box-sizing: border-box; border-radius: 5px; border: 1px solid #ccc; font-size: 16px; }
+        button { background-color: #007bff; color: white; border: none; cursor: pointer; margin-top: 20px; transition: background-color 0.3s; }
+        button:hover { background-color: #0056b3; }
+        #result { margin-top: 30px; padding: 20px; border-radius: 8px; background-color: white; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+        #output-text { margin-bottom: 15px; font-size: 1.1em; }
+        #output-image img { 
+            max-width: 80%; /* Make the image prominent */
+            height: auto; 
+            border: 2px solid #333; /* Highlight the blended result */
+            border-radius: 4px; 
+            display: block; 
+            margin: 10px auto; 
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Material Microstructure Predictor 🔬</h1>
+    <p>The model predicts a **single, new microstructure image** by the top predicted classes based on probability scores.</p>
+
+    <form id="prediction-form">
+        <div class="form-group">
+            <label for="composition">Composition (e.g., Fe C Ni):</label>
+            <input type="text" id="composition" name="composition" placeholder="Enter space-separated elements (e.g., Al Mg)" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="treatment">Treatment:</label>
+            <input type="text" id="treatment" name="treatment" placeholder="Enter treatment text (e.g., Hot rolled)" required>
+        </div>
+        
+        <button type="submit">Predict Microstructure</button>
+    </form>
+
+    <div id="result">
+        <h2>Prediction Result</h2>
+        <p id="output-text">Enter values and click Predict to see the single blended image.</p>
+        <div id="output-image"></div>
+    </div>
+
+    <script>
+        document.getElementById('prediction-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const form = e.target;
+            const formData = new FormData(form);
+            const data = new URLSearchParams(formData);
+
+            fetch('/predict', {
+                method: 'POST',
+                body: data,
+            })
+            .then(response => response.json())
+            .then(result => {
+                const outputText = document.getElementById('output-text');
+                const outputImage = document.getElementById('output-image');
+                outputImage.innerHTML = ''; // Clear previous output
+
+                if (result.error) {
+                    outputText.innerHTML = `<strong style="color: red;">Error:</strong> ${result.error}`;
+                } else {
+                    outputText.innerHTML = `
+                        ✅ **Prediction Complete:** A **new image** representing the predicted microstructure has been generated for: **${result.composition_input}** / **${result.treatment_input}**.
+                    `;
+
+                    // We expect a single image_src pointing to the blended file
+                    const img = document.createElement('img');
+                    // Add a unique timestamp to force the browser to load the new image, not a cached one
+                    img.src = '/static/' + result.image_src + '?' + new Date().getTime(); 
+                    img.alt = 'Blended Microstructure Prediction';
+                    outputImage.appendChild(img);
+                }
+            })
+            .catch(error => {
+                document.getElementById('output-text').innerHTML = `<strong style="color: red;">Network Error:</strong> ${error}`;
+                document.getElementById('output-image').innerHTML = '';
+            });
+        });
+    </script>
+</body>
+</html>

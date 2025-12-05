@@ -7,6 +7,7 @@
     <style>
         body { font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px; background-color: #f4f4f4; }
         h1 { text-align: center; color: #333; }
+        h2 { border-bottom: 2px solid #ccc; padding-bottom: 5px; margin-top: 25px; }
         .form-group { margin-bottom: 20px; }
         label { display: block; margin-bottom: 8px; font-weight: bold; color: #555; }
         input[type="text"], button { width: 100%; padding: 12px; box-sizing: border-box; border-radius: 5px; border: 1px solid #ccc; font-size: 16px; }
@@ -15,19 +16,37 @@
         #result { margin-top: 30px; padding: 20px; border-radius: 8px; background-color: white; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
         #output-text { margin-bottom: 15px; font-size: 1.1em; }
         #output-image img { 
-            max-width: 80%; /* Make the image prominent */
+            max-width: 80%; 
             height: auto; 
-            border: 2px solid #333; /* Highlight the blended result */
+            border: 2px solid #333; 
             border-radius: 4px; 
             display: block; 
             margin: 10px auto; 
+        }
+        /* Style for breakdown list */
+        #probability-breakdown {
+            margin-top: 15px;
+            padding: 10px;
+            border: 1px dashed #ddd;
+            border-radius: 4px;
+        }
+        .prob-item {
+            padding: 4px 0;
+            font-size: 0.95em;
+        }
+        .prob-bar {
+            background-color: #4CAF50;
+            height: 15px;
+            border-radius: 3px;
+            margin-left: 10px;
+            display: inline-block;
         }
     </style>
 </head>
 <body>
 
     <h1>Material Microstructure Predictor 🔬</h1>
-    <p>The model predicts a **single, new microstructure image** by the top predicted classes based on probability scores.</p>
+    <p>The model predicts a **single, new microstructure image** by blending the top predicted classes based on probability scores.</p>
 
     <form id="prediction-form">
         <div class="form-group">
@@ -46,6 +65,7 @@
     <div id="result">
         <h2>Prediction Result</h2>
         <p id="output-text">Enter values and click Predict to see the single blended image.</p>
+        <div id="probability-breakdown"></div>
         <div id="output-image"></div>
     </div>
 
@@ -65,18 +85,46 @@
             .then(result => {
                 const outputText = document.getElementById('output-text');
                 const outputImage = document.getElementById('output-image');
-                outputImage.innerHTML = ''; // Clear previous output
+                const probBreakdown = document.getElementById('probability-breakdown');
+                
+                outputImage.innerHTML = ''; 
+                probBreakdown.innerHTML = '';
 
                 if (result.error) {
                     outputText.innerHTML = `<strong style="color: red;">Error:</strong> ${result.error}`;
                 } else {
                     outputText.innerHTML = `
-                        ✅ **Prediction Complete:** A **new image** representing the predicted microstructure has been generated for: **${result.composition_input}** / **${result.treatment_input}**.
+                        ✅ **Prediction Complete:** A **new, blended image** representing the predicted microstructure has been generated for: **${result.composition_input}** / **${result.treatment_input}**.
                     `;
+                    
+                    // --- NEW CODE FOR BREAKDOWN ---
+                    if (result.raw_predictions && Array.isArray(result.raw_predictions)) {
+                        let breakdownHTML = '<strong>Probabilistic Breakdown (Weights):</strong><br>';
+                        let totalProb = 0;
+                        
+                        // Calculate total probability for visualization scaling
+                        result.raw_predictions.forEach(p => {
+                            totalProb += p.probability;
+                        });
 
-                    // We expect a single image_src pointing to the blended file
+                        // Iterate and display
+                        result.raw_predictions.forEach((p, index) => {
+                            const percent = (p.probability * 100).toFixed(1);
+                            // Phase naming is generic since we don't pass the class names easily
+                            const phaseName = `Phase ${index + 1} (${p.image_name.slice(0, 7)}...)`; 
+                            
+                            breakdownHTML += `
+                                <div class="prob-item">
+                                    ${phaseName}: <strong>${percent}%</strong>
+                                    <span class="prob-bar" style="width: ${percent}%;"></span>
+                                </div>
+                            `;
+                        });
+                        probBreakdown.innerHTML = breakdownHTML;
+                    }
+                    // --- END NEW CODE ---
+                    
                     const img = document.createElement('img');
-                    // Add a unique timestamp to force the browser to load the new image, not a cached one
                     img.src = '/static/' + result.image_src + '?' + new Date().getTime(); 
                     img.alt = 'Blended Microstructure Prediction';
                     outputImage.appendChild(img);

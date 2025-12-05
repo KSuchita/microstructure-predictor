@@ -4,10 +4,13 @@ from PIL import Image
 import pandas as pd
 import numpy as np
 import os
+import sys # <-- ADDED: For explicitly exiting on fatal error
 
 app = Flask(__name__)
 
 # CONSTANTS
+# NOTE: Ensure the 'static' and 'static/Resized' directories and their contents
+# are committed to your GitHub repository!
 IMAGE_DIR = 'static/Resized'
 OUTPUT_DIR = 'static'
 BLENDED_IMAGE_FILENAME = 'blended_output.png'
@@ -15,14 +18,18 @@ BLENDED_IMAGE_PATH = os.path.join(OUTPUT_DIR, BLENDED_IMAGE_FILENAME)
 
 # LOAD MODEL + ENCODERS + MAP
 try:
+    # Ensure these files are present in the root of your repository
     model = load('model.joblib')
     mlb_composition = load('mlb_composition.joblib')
     lb_treatment = load('lb_treatment.joblib')
     image_map = load('image_map.joblib')
-    print("All components loaded successfully.")
+    print("All ML components loaded successfully.")
 except Exception as e:
-    print(f"Error loading components: {e}")
-
+    # CRITICAL FIX: If loading fails, print the specific error (e.g., FileNotFoundError)
+    # and explicitly exit, which makes the error visible in the Render logs.
+    print(f"FATAL ERROR: Failed to load ML components. Check file paths. Error: {e}")
+    sys.exit(1) # <-- CRUCIAL: Forces the startup process to fail immediately
+    
 # ------------ 2. PREPROCESS INPUT -------------
 def preprocess_input(comp_input, treat_input):
     comp_tokens = comp_input.split()
@@ -74,6 +81,7 @@ def blend_images(predictions):
 
 @app.route('/', methods=['GET'])
 def index():
+    # Ensure you have a 'templates/index.html' file committed to GitHub
     return render_template('index.html')
 
 
@@ -123,8 +131,3 @@ def predict():
 
     except Exception as e:
         return jsonify({'error': f"Prediction error: {e}"})
-
-
-if __name__ == '__main__':
-    port = int(os.environ.get('PORT', 5000))
-    app.run(debug=True, host='0.0.0.0', port=5000)

@@ -125,5 +125,7 @@ def predict():
         return jsonify({'error': f"Prediction error: {e}"})
 
 
-#if __name__ == '__main__':
-    #app.run(debug=True, host='0.0.0.0', port=5000)
+# The final, CORRECT version of your app.py should look like this (delete the line!)
+if __name__ == '__main__':
+    # app.run(debug=True, host='0.0.0.0', port=5000) # This must be commented out or removed
+    pass # Or simply leave the block empty if there's no other startup logic

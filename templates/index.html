@@ -16,37 +16,26 @@
         #result { margin-top: 30px; padding: 20px; border-radius: 8px; background-color: white; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
         #output-text { margin-bottom: 15px; font-size: 1.1em; }
         #output-image img { 
-            max-width: 80%; 
+            max-width: 80%;
             height: auto; 
-            border: 2px solid #333; 
+            border: 2px solid #333;
             border-radius: 4px; 
             display: block; 
             margin: 10px auto; 
         }
-        /* Style for breakdown list */
-        #probability-breakdown {
-            margin-top: 15px;
-            padding: 10px;
-            border: 1px dashed #ddd;
-            border-radius: 4px;
-        }
-        .prob-item {
-            padding: 4px 0;
-            font-size: 0.95em;
-        }
-        .prob-bar {
-            background-color: #4CAF50;
-            height: 15px;
-            border-radius: 3px;
-            margin-left: 10px;
-            display: inline-block;
-        }
+        #used-images-breakdown { margin-top: 15px; padding: 10px; border: 1px dashed #ddd; border-radius: 4px; }
+        .image-contribution { padding: 4px 0; font-size: 1em; display: flex; justify-content: space-between; }
+        .strategy-tag { font-weight: bold; padding: 2px 6px; border-radius: 4px; color: white; }
+        .tier-1-tag { background-color: #007bff; } /* Mag Match */
+        .tier-2-tag { background-color: #28a745; } /* Class Match */
+        .tier-3-tag { background-color: #ffc107; color: #343a40; } /* Comp Match */
+        .tier-4-tag { background-color: #6c757d; } /* Model Prediction */
     </style>
 </head>
 <body>
 
     <h1>Material Microstructure Predictor 🔬</h1>
-    <p>The model predicts a **single, new microstructure image** by blending the top predicted classes based on probability scores.</p>
+    <p>Predicts a microstructure image by blending data points based on Composition, Treatment, and (optionally) Magnification.</p>
 
     <form id="prediction-form">
         <div class="form-group">
@@ -59,14 +48,19 @@
             <input type="text" id="treatment" name="treatment" placeholder="Enter treatment text (e.g., Hot rolled)" required>
         </div>
         
+        <div class="form-group">
+            <label for="magnification">Magnification (Optional, e.g., 25, 100, 500):</label>
+            <input type="text" id="magnification" name="magnification" placeholder="Enter magnification value (optional)">
+            </div>
+        
         <button type="submit">Predict Microstructure</button>
     </form>
 
     <div id="result">
         <h2>Prediction Result</h2>
         <p id="output-text">Enter values and click Predict to see the single blended image.</p>
-        <div id="probability-breakdown"></div>
         <div id="output-image"></div>
+        <div id="used-images-breakdown"></div>
     </div>
 
     <script>
@@ -85,54 +79,59 @@
             .then(result => {
                 const outputText = document.getElementById('output-text');
                 const outputImage = document.getElementById('output-image');
-                const probBreakdown = document.getElementById('probability-breakdown');
+                const breakdownDiv = document.getElementById('used-images-breakdown');
                 
-                outputImage.innerHTML = ''; 
-                probBreakdown.innerHTML = '';
+                outputImage.innerHTML = ''; // Clear previous image
+                breakdownDiv.innerHTML = ''; // Clear previous breakdown
 
                 if (result.error) {
                     outputText.innerHTML = `<strong style="color: red;">Error:</strong> ${result.error}`;
-                } else {
-                    outputText.innerHTML = `
-                        ✅ **Prediction Complete:** A **new, blended image** representing the predicted microstructure has been generated for: **${result.composition_input}** / **${result.treatment_input}**.
-                    `;
-                    
-                    // --- NEW CODE FOR BREAKDOWN ---
-                    if (result.raw_predictions && Array.isArray(result.raw_predictions)) {
-                        let breakdownHTML = '<strong>Probabilistic Breakdown (Weights):</strong><br>';
-                        let totalProb = 0;
-                        
-                        // Calculate total probability for visualization scaling
-                        result.raw_predictions.forEach(p => {
-                            totalProb += p.probability;
-                        });
+                    return;
+                }
+                
+                // Determine strategy tag class based on the strategy name
+                let tagClass = 'tier-4-tag';
+                if (result.strategy.includes('Magnification Match')) {
+                    tagClass = 'tier-1-tag';
+                } else if (result.strategy.includes('Microstructure Class Match')) {
+                    tagClass = 'tier-2-tag';
+                } else if (result.strategy.includes('Composition Only')) {
+                    tagClass = 'tier-3-tag';
+                }
+                
+                // Displaying the input data, handling optional magnification
+                const magDisplay = result.magnification_input ? ` / <strong>${result.magnification_input}</strong>` : '';
 
-                        // Iterate and display
-                        result.raw_predictions.forEach((p, index) => {
-                            const percent = (p.probability * 100).toFixed(1);
-                            // Phase naming is generic since we don't pass the class names easily
-                            const phaseName = `Phase ${index + 1} (${p.image_name.slice(0, 7)}...)`; 
-                            
-                            breakdownHTML += `
-                                <div class="prob-item">
-                                    ${phaseName}: <strong>${percent}%</strong>
-                                    <span class="prob-bar" style="width: ${percent}%;"></span>
-                                </div>
-                            `;
-                        });
-                        probBreakdown.innerHTML = breakdownHTML;
-                    }
-                    // --- END NEW CODE ---
-                    
-                    const img = document.createElement('img');
-                    img.src = '/static/' + result.image_src + '?' + new Date().getTime(); 
-                    img.alt = 'Blended Microstructure Prediction';
-                    outputImage.appendChild(img);
+                outputText.innerHTML = `
+                    <span class="strategy-tag ${tagClass}">${result.strategy}</span>
+                    <br>
+                    ✅ Generated blended image for: <strong>${result.composition_input}</strong> / <strong>${result.treatment_input}</strong>${magDisplay}.
+                `;
+
+                // Display the blended image
+                const img = document.createElement('img');
+                img.src = '/static/' + result.image_src + '?' + new Date().getTime(); 
+                img.alt = 'Blended Microstructure Prediction';
+                outputImage.appendChild(img);
+                
+                // Display contribution breakdown
+                if (result.used_images && result.used_images.length > 0) {
+                    let html = '<strong>Image Contribution Breakdown:</strong><br>';
+                    result.used_images.forEach(item => {
+                        html += `
+                            <div class="image-contribution">
+                                <span>${item.image_name}</span>
+                                <strong>${item.weight_percent}%</strong>
+                            </div>
+                        `;
+                    });
+                    breakdownDiv.innerHTML = html;
                 }
             })
             .catch(error => {
                 document.getElementById('output-text').innerHTML = `<strong style="color: red;">Network Error:</strong> ${error}`;
                 document.getElementById('output-image').innerHTML = '';
+                document.getElementById('used-images-breakdown').innerHTML = '';
             });
         });
     </script>

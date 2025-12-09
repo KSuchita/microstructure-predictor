@@ -1,7 +1,6 @@
 Flask
 joblib
-Pillow
 numpy
 pandas
-gunicorn
-
+scikit-learn
+Pillow
